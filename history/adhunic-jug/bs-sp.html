@@ -220,5 +220,22 @@
     <p>41. বিদ্যাসাগর রচিত যেকোন দু’টি পুস্তকের নাম লেখ।</p>
     <p>উঃ কথামালা, সীতার বনবাস।</p>
 
+    <script type="text/javascript">
+var omitformtags=["input", "textarea", "select"]
+omitformtags=omitformtags.join("|")
+function disableselect(e){
+if (omitformtags.indexOf(e.target.tagName.toLowerCase())==-1)
+return false
+}
+function reEnable(){
+return true
+}
+if (typeof document.onselectstart!="undefined")
+document.onselectstart=new Function ("return false")
+else{
+document.onmousedown=disableselect
+document.onmouseup=reEnable
+}
+</script>
 </body>
 </html
