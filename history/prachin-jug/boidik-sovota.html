@@ -152,5 +152,23 @@
 </p>
 <p>27. বৈদিক যুগের সর্বশ্রেষ্ঠ দেবতা কে ছিল? তাঁর উদ্দেশ্যে ঋগ্বেদে কটি স্তোত্র আছে?</p>
 <p>উঃ ইন্দ্র। ২৫০ টি স্তোত্র আছে।</p>
+    
+    <script type="text/javascript">
+var omitformtags=["input", "textarea", "select"]
+omitformtags=omitformtags.join("|")
+function disableselect(e){
+if (omitformtags.indexOf(e.target.tagName.toLowerCase())==-1)
+return false
+}
+function reEnable(){
+return true
+}
+if (typeof document.onselectstart!="undefined")
+document.onselectstart=new Function ("return false")
+else{
+document.onmousedown=disableselect
+document.onmouseup=reEnable
+}
+</script>
 </body>
 </html>
