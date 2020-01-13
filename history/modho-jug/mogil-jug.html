@@ -304,5 +304,23 @@
     </p>
     <p>58. ‘জিন্দাপীর’ নামে কে পরিচিত? কেন?</p>
     <p>উঃ অনাড়ম্বর জীবনযাত্রা ও ধর্মের প্রতি নিষ্ঠার কারণে ঔরঙ্গজেব মুসলিমদের কাছে জিন্দাপীর নামে পরিচিত।</p>
+    
+    <script type="text/javascript">
+var omitformtags=["input", "textarea", "select"]
+omitformtags=omitformtags.join("|")
+function disableselect(e){
+if (omitformtags.indexOf(e.target.tagName.toLowerCase())==-1)
+return false
+}
+function reEnable(){
+return true
+}
+if (typeof document.onselectstart!="undefined")
+document.onselectstart=new Function ("return false")
+else{
+document.onmousedown=disableselect
+document.onmouseup=reEnable
+}
+</script>
 </body>
 </html
