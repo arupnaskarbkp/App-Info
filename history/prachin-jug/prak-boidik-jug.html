@@ -239,5 +239,23 @@
     </p>
     <p>45. মহেঞ্জদারো কথাটির অর্থ কী?</p>
     <p>উঃ মৃতের সমাধি।</p>
+    
+    <script type="text/javascript">
+var omitformtags=["input", "textarea", "select"]
+omitformtags=omitformtags.join("|")
+function disableselect(e){
+if (omitformtags.indexOf(e.target.tagName.toLowerCase())==-1)
+return false
+}
+function reEnable(){
+return true
+}
+if (typeof document.onselectstart!="undefined")
+document.onselectstart=new Function ("return false")
+else{
+document.onmousedown=disableselect
+document.onmouseup=reEnable
+}
+</script>
 </body>
 </html>
