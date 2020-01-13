@@ -525,5 +525,23 @@
 <p>102. যে বিদেশী পর্যটক বিজয়নগরে এসেছিলেন তাদের দুজনের নাম কর?</p>
 <p>উঃ ইতালীয় পর্যটক নিকোলোকন্তি। পারস্যের পর্যটক আবদুর রজ্জাক।</p>
 
+    <script type="text/javascript">
+var omitformtags=["input", "textarea", "select"]
+omitformtags=omitformtags.join("|")
+function disableselect(e){
+if (omitformtags.indexOf(e.target.tagName.toLowerCase())==-1)
+return false
+}
+function reEnable(){
+return true
+}
+if (typeof document.onselectstart!="undefined")
+document.onselectstart=new Function ("return false")
+else{
+document.onmousedown=disableselect
+document.onmouseup=reEnable
+}
+</script>
+    
 </body>
 </html
