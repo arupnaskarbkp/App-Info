@@ -165,5 +165,23 @@
 <p>30. বৌদ্ধধর্ম প্রচারক দুজন সম্রাটের নাম কর।</p>
 <p>উঃ সম্রাট অশোক ও সম্রাট কনিষ্ক।</p>
 
+    <script type="text/javascript">
+var omitformtags=["input", "textarea", "select"]
+omitformtags=omitformtags.join("|")
+function disableselect(e){
+if (omitformtags.indexOf(e.target.tagName.toLowerCase())==-1)
+return false
+}
+function reEnable(){
+return true
+}
+if (typeof document.onselectstart!="undefined")
+document.onselectstart=new Function ("return false")
+else{
+document.onmousedown=disableselect
+document.onmouseup=reEnable
+}
+</script>
+    
 </body>
 </html
