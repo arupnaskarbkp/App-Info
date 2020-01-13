@@ -1245,5 +1245,23 @@
     <p>246. ভারতের জাতীয় সঙ্গীত কী এবং কে রচনা করেন?</p>
     <p>উঃ জাতীয় সঙ্গীত হল –‘জনগণমন অধিনায়ক জয় হে’। রচনা করেন বিশ্বকবি রবীন্দ্রনাথ ঠাকুর।</p>
 
+    <script type="text/javascript">
+var omitformtags=["input", "textarea", "select"]
+omitformtags=omitformtags.join("|")
+function disableselect(e){
+if (omitformtags.indexOf(e.target.tagName.toLowerCase())==-1)
+return false
+}
+function reEnable(){
+return true
+}
+if (typeof document.onselectstart!="undefined")
+document.onselectstart=new Function ("return false")
+else{
+document.onmousedown=disableselect
+document.onmouseup=reEnable
+}
+</script>
+    
 </body>
 </html
