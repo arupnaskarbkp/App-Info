@@ -1,0 +1,76 @@
+{
+    "Geography": [
+    {
+    "id": 1,
+    "ImageUrl": "https://cdn.pixabay.com/photo/2019/05/13/14/14/child-4200036__340.jpg",
+    "WebUrl": "https://www.google.com/",
+    "Title": "মহাবিশ্ব"
+    },
+    {
+    "id": 2,
+    "ImageUrl": "https://cdn.pixabay.com/photo/2019/05/13/14/14/child-4200036__340.jpg",
+    "WebUrl": "https://www.google.com/",
+    "Title": "আমাদের পৃথিবী"
+    },
+    {
+    "id": 3,
+    "ImageUrl": "https://cdn.pixabay.com/photo/2019/05/13/14/14/child-4200036__340.jpg",
+    "WebUrl": "https://www.google.com/",
+    "Title": "শিলা মন্ডল ও ভূমি ও পর্বত"
+    },
+    {
+    "id": 4,
+    "ImageUrl": "https://cdn.pixabay.com/photo/2019/05/13/14/14/child-4200036__340.jpg",
+    "WebUrl": "https://www.google.com/",
+    "Title": "জল মন্ডল বা বারিমন্ডল ও হ্রদ"
+    },
+    {
+    "id": 5,
+    "ImageUrl": "https://cdn.pixabay.com/photo/2019/05/13/14/14/child-4200036__340.jpg",
+    "WebUrl": "https://www.google.com/",
+    "Title": "শক্তি ও শিল্প ও বাণিজ্য"
+    },
+    {
+    "id": 6,
+    "ImageUrl": "https://cdn.pixabay.com/photo/2019/05/13/14/14/child-4200036__340.jpg",
+    "WebUrl": "https://www.google.com/",
+    "Title": "ভারতের জলবায়ু, স্বাভাবিক উদ্ভিদ, মাটি, সেচ"
+    },
+    {
+    "id": 7,
+    "ImageUrl": "https://cdn.pixabay.com/photo/2019/05/13/14/14/child-4200036__340.jpg",
+    "WebUrl": "https://www.google.com/",
+    "Title": "ভারতের ভূ-প্রকৃতি ও নদ নদী"
+    },
+    {
+        "id": 7,
+        "ImageUrl": "https://cdn.pixabay.com/photo/2019/05/13/14/14/child-4200036__340.jpg",
+        "WebUrl": "https://www.google.com/",
+        "Title": "ভারতের প্রধান প্রধান কৃষিজ ফসল"
+     },
+     {
+        "id": 7,
+        "ImageUrl": "https://cdn.pixabay.com/photo/2019/05/13/14/14/child-4200036__340.jpg",
+        "WebUrl": "https://www.google.com/",
+        "Title": "বায়ুমন্ডল ও তার প্রভাব"
+     },
+     {
+        "id": 7,
+        "ImageUrl": "https://cdn.pixabay.com/photo/2019/05/13/14/14/child-4200036__340.jpg",
+        "WebUrl": "https://www.google.com/",
+        "Title": "ভূমিকম্প, আবহবিকার, হিমবাহ, বায়ুর বহন কাজ ওগঠিত ভূমিরূপ"
+    },
+    {
+        "id": 7,
+        "ImageUrl": "https://cdn.pixabay.com/photo/2019/05/13/14/14/child-4200036__340.jpg",
+        "WebUrl": "https://www.google.com/",
+        "Title": "ভারতের ভৌগােলিক অবস্থান, রাজনৈতিক বিভাগ ও জনসংখ্যা"
+    },
+    {
+        "id": 7,
+        "ImageUrl": "https://cdn.pixabay.com/photo/2019/05/13/14/14/child-4200036__340.jpg",
+        "WebUrl": "https://www.google.com/",
+        "Title": "ভারতের প্রতিবেশী দেশসমূহ"
+    }
+    ]
+    }
