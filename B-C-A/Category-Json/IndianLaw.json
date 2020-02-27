@@ -1,0 +1,76 @@
+{
+    "IndianLaw": [
+    {
+    "id": 1,
+    "ImageUrl": "https://cdn.pixabay.com/photo/2019/05/13/14/14/child-4200036__340.jpg",
+    "WebUrl": "https://www.google.com/",
+    "Title": "ভারতীয় সংবিধানের পটভূমিকা"
+    },
+    {
+    "id": 2,
+    "ImageUrl": "https://cdn.pixabay.com/photo/2019/05/13/14/14/child-4200036__340.jpg",
+    "WebUrl": "https://www.google.com/",
+    "Title": "ভারতীয় সংবিধানের প্রস্তাবনা"
+    },
+    {
+    "id": 3,
+    "ImageUrl": "https://cdn.pixabay.com/photo/2019/05/13/14/14/child-4200036__340.jpg",
+    "WebUrl": "https://www.google.com/",
+    "Title": "মৌলিক অধিকার ও কর্তব্য"
+    },
+    {
+    "id": 4,
+    "ImageUrl": "https://cdn.pixabay.com/photo/2019/05/13/14/14/child-4200036__340.jpg",
+    "WebUrl": "https://www.google.com/",
+    "Title": "ভারতীয় সংবিধানের বিভিন্ন ধারা"
+    },
+    {
+    "id": 5,
+    "ImageUrl": "https://cdn.pixabay.com/photo/2019/05/13/14/14/child-4200036__340.jpg",
+    "WebUrl": "https://www.google.com/",
+    "Title": "রাষ্ট্রপতি ও উপরাষ্ট্রপতি"
+    },
+    {
+    "id": 6,
+    "ImageUrl": "https://cdn.pixabay.com/photo/2019/05/13/14/14/child-4200036__340.jpg",
+    "WebUrl": "https://www.google.com/",
+    "Title": "ভারতের প্রধানমন্ত্রী"
+    },
+    {
+    "id": 7,
+    "ImageUrl": "https://cdn.pixabay.com/photo/2019/05/13/14/14/child-4200036__340.jpg",
+    "WebUrl": "https://www.google.com/",
+    "Title": "ভারতের সংবিধান সংশােধন"
+    },
+    {
+        "id": 7,
+        "ImageUrl": "https://cdn.pixabay.com/photo/2019/05/13/14/14/child-4200036__340.jpg",
+        "WebUrl": "https://www.google.com/",
+        "Title": "ভারতের কেন্দ্রীয় আইনসভা সংসদ বা পার্লামেন্ট"
+     },
+     {
+        "id": 7,
+        "ImageUrl": "https://cdn.pixabay.com/photo/2019/05/13/14/14/child-4200036__340.jpg",
+        "WebUrl": "https://www.google.com/",
+        "Title": "নির্বাচন, পরিকল্পনা কমিশন, জাতীয় উন্নয়ন পরিষদ ও অর্থ কমিশন"
+     },
+     {
+        "id": 7,
+        "ImageUrl": "https://cdn.pixabay.com/photo/2019/05/13/14/14/child-4200036__340.jpg",
+        "WebUrl": "https://www.google.com/",
+        "Title": "ভারতীয় বিচারব্যবস্থা সম্পকিত কিছু বিষয়"
+    },
+    {
+        "id": 7,
+        "ImageUrl": "https://cdn.pixabay.com/photo/2019/05/13/14/14/child-4200036__340.jpg",
+        "WebUrl": "https://www.google.com/",
+        "Title": "জেলা প্রশাসন"
+    },
+    {
+        "id": 7,
+        "ImageUrl": "https://cdn.pixabay.com/photo/2019/05/13/14/14/child-4200036__340.jpg",
+        "WebUrl": "https://www.google.com/",
+        "Title": "তফশিলি জাতি ও উপজাতি"
+    }
+    ]
+    }
