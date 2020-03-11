@@ -7,10 +7,22 @@
     "Title": "পশ্চিমবঙ্গে চাকরির খবর"
     },
     {
+    "id": 2,
+    "ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/allicon.png",
+    "WebUrl": "#",
+    "Title": "পরীক্ষার ফলাফল ও ঘোষণা"
+    },
+    {
+    "id": 3,
+    "ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/allicon.png",
+    "WebUrl": "#",
+    "Title": "পরীক্ষার এডমিট কার্ড"
+    },    
+    {
     "id": 4,
     "ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/allicon.png",
     "WebUrl": "#",
-    "Title": "Others Job"
+    "Title": "পরীক্ষার সিলেবাস"
     }
     ]
     }
