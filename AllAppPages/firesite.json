@@ -1,0 +1,240 @@
+{
+  "categories": [
+    {
+      "title": "Social Sites",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/social-sites.png?alt=media&token=a1417a5a-dbe5-4f1e-b7f8-12c98a11fca7"
+    },
+    {
+      "title": "Newspapers",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/newspapers.png?alt=media&token=cf9fc526-7d82-4678-a639-662a22bfb9c2"
+    },
+    {
+      "title": "Magazines",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/magazines.png?alt=media&token=855a5842-a4cf-4461-96f8-a309c063e64e"
+    },
+    {
+      "title": "Life Hacks",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/life_hacks.png?alt=media&token=2a7982b9-19bb-4b2e-a500-f517f037c7fc"
+    },
+    {
+      "title": "Blogs",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/blogs.png?alt=media&token=108278b3-8337-44b2-b366-2019a142a7e4"
+    },
+    {
+      "title": "About Us pages",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/about_us_pages.png?alt=media&token=b5dc0f22-4ae7-4792-a99e-2d7011b044f5"
+    }
+  ],
+  "sites": [
+    {
+      "title": "Social Site #1",
+      "category": "Social Sites",
+      "isFeatured": "no",
+      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/social-sites.png?alt=media&token=a1417a5a-dbe5-4f1e-b7f8-12c98a11fca7",
+      "siteUrl": "https://www.google.com/"
+    },
+    {
+      "title": "Social Site #2",
+      "category": "Social Sites",
+      "isFeatured": "yes",
+      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/social-sites.png?alt=media&token=a1417a5a-dbe5-4f1e-b7f8-12c98a11fca7",
+      "siteUrl": "https://www.google.com/"
+    },
+    {
+      "title": "Social Site #3",
+      "category": "Social Sites",
+      "isFeatured": "no",
+      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/social-sites.png?alt=media&token=a1417a5a-dbe5-4f1e-b7f8-12c98a11fca7",
+      "siteUrl": "https://www.google.com/"
+    },
+    {
+      "title": "Social Site #4",
+      "category": "Social Sites",
+      "isFeatured": "no",
+      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/social-sites.png?alt=media&token=a1417a5a-dbe5-4f1e-b7f8-12c98a11fca7",
+      "siteUrl": "https://www.google.com/"
+    },
+    {
+      "title": "Social Site #5",
+      "category": "Social Sites",
+      "isFeatured": "no",
+      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/social-sites.png?alt=media&token=a1417a5a-dbe5-4f1e-b7f8-12c98a11fca7",
+      "siteUrl": "https://www.google.com/"
+    },
+    {
+      "title": "Newspaper Site #1",
+      "category": "Newspapers",
+      "isFeatured": "yes",
+      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/newspapers.png?alt=media&token=cf9fc526-7d82-4678-a639-662a22bfb9c2",
+      "siteUrl": "https://www.google.com/"
+    },
+    {
+      "title": "Newspaper Site #2",
+      "category": "Newspapers",
+      "isFeatured": "no",
+      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/newspapers.png?alt=media&token=cf9fc526-7d82-4678-a639-662a22bfb9c2",
+      "siteUrl": "https://www.google.com/"
+    },
+    {
+      "title": "Newspaper Site #3",
+      "category": "Newspapers",
+      "isFeatured": "no",
+      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/newspapers.png?alt=media&token=cf9fc526-7d82-4678-a639-662a22bfb9c2",
+      "siteUrl": "https://www.google.com/"
+    },
+    {
+      "title": "Newspaper Site #4",
+      "category": "Newspapers",
+      "isFeatured": "yes",
+      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/newspapers.png?alt=media&token=cf9fc526-7d82-4678-a639-662a22bfb9c2",
+      "siteUrl": "https://www.google.com/"
+    },
+    {
+      "title": "Newspaper Site #5",
+      "category": "Newspapers",
+      "isFeatured": "no",
+      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/newspapers.png?alt=media&token=cf9fc526-7d82-4678-a639-662a22bfb9c2",
+      "siteUrl": "https://www.google.com/"
+    },
+    {
+      "title": "Newspaper Site #6",
+      "category": "Newspapers",
+      "isFeatured": "no",
+      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/newspapers.png?alt=media&token=cf9fc526-7d82-4678-a639-662a22bfb9c2",
+      "siteUrl": "https://www.google.com/"
+    },
+    {
+      "title": "Magazine Site #1",
+      "category": "Magazines",
+      "isFeatured": "no",
+      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/magazines.png?alt=media&token=855a5842-a4cf-4461-96f8-a309c063e64e",
+      "siteUrl": "https://www.google.com/"
+    },
+    {
+      "title": "Magazine Site #2",
+      "category": "Magazines",
+      "isFeatured": "no",
+      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/magazines.png?alt=media&token=855a5842-a4cf-4461-96f8-a309c063e64e",
+      "siteUrl": "https://www.google.com/"
+    },
+    {
+      "title": "Magazine Site #3",
+      "category": "Magazines",
+      "isFeatured": "yes",
+      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/magazines.png?alt=media&token=855a5842-a4cf-4461-96f8-a309c063e64e",
+      "siteUrl": "https://www.google.com/"
+    },
+    {
+      "title": "Magazine Site #4",
+      "category": "Magazines",
+      "isFeatured": "no",
+      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/magazines.png?alt=media&token=855a5842-a4cf-4461-96f8-a309c063e64e",
+      "siteUrl": "https://www.google.com/"
+    },
+    {
+      "title": "Life Hacks #1",
+      "category": "Life Hacks",
+      "isFeatured": "no",
+      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/life_hacks.png?alt=media&token=2a7982b9-19bb-4b2e-a500-f517f037c7fc",
+      "siteUrl": "https://www.google.com/"
+    },
+    {
+      "title": "Life Hacks #2",
+      "category": "Life Hacks",
+      "isFeatured": "no",
+      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/life_hacks.png?alt=media&token=2a7982b9-19bb-4b2e-a500-f517f037c7fc",
+      "siteUrl": "https://www.google.com/"
+    },
+    {
+      "title": "Life Hacks #3",
+      "category": "Life Hacks",
+      "isFeatured": "no",
+      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/life_hacks.png?alt=media&token=2a7982b9-19bb-4b2e-a500-f517f037c7fc",
+      "siteUrl": "https://www.google.com/"
+    },
+    {
+      "title": "Life Hacks #4",
+      "category": "Life Hacks",
+      "isFeatured": "no",
+      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/life_hacks.png?alt=media&token=2a7982b9-19bb-4b2e-a500-f517f037c7fc",
+      "siteUrl": "https://www.google.com/"
+    },
+    {
+      "title": "Life Hacks #5",
+      "category": "Life Hacks",
+      "isFeatured": "yes",
+      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/life_hacks.png?alt=media&token=2a7982b9-19bb-4b2e-a500-f517f037c7fc",
+      "siteUrl": "https://www.google.com/"
+    },
+    {
+      "title": "Blog Site #1",
+      "category": "Blogs",
+      "isFeatured": "no",
+      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/blogs.png?alt=media&token=108278b3-8337-44b2-b366-2019a142a7e4",
+      "siteUrl": "https://www.google.com/"
+    },
+    {
+      "title": "Blog Site #2",
+      "category": "Blogs",
+      "isFeatured": "no",
+      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/blogs.png?alt=media&token=108278b3-8337-44b2-b366-2019a142a7e4",
+      "siteUrl": "https://www.google.com/"
+    },
+    {
+      "title": "Blog Site #3",
+      "category": "Blogs",
+      "isFeatured": "no",
+      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/blogs.png?alt=media&token=108278b3-8337-44b2-b366-2019a142a7e4",
+      "siteUrl": "https://www.google.com/"
+    },
+    {
+      "title": "Blog Site #4",
+      "category": "Blogs",
+      "isFeatured": "no",
+      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/blogs.png?alt=media&token=108278b3-8337-44b2-b366-2019a142a7e4",
+      "siteUrl": "https://www.google.com/"
+    },
+    {
+      "title": "Blog Site #5",
+      "category": "Blogs",
+      "isFeatured": "yes",
+      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/blogs.png?alt=media&token=108278b3-8337-44b2-b366-2019a142a7e4",
+      "siteUrl": "https://www.google.com/"
+    },
+    {
+      "title": "Blog Site #6",
+      "category": "Blogs",
+      "isFeatured": "no",
+      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/blogs.png?alt=media&token=108278b3-8337-44b2-b366-2019a142a7e4",
+      "siteUrl": "https://www.google.com/"
+    },
+    {
+      "title": "Blog Site #7",
+      "category": "Blogs",
+      "isFeatured": "no",
+      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/blogs.png?alt=media&token=108278b3-8337-44b2-b366-2019a142a7e4",
+      "siteUrl": "https://www.google.com/"
+    },
+    {
+      "title": "About Page #1",
+      "category": "About Us pages",
+      "isFeatured": "no",
+      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/about_us_pages.png?alt=media&token=b5dc0f22-4ae7-4792-a99e-2d7011b044f5",
+      "siteUrl": "https://www.google.com/"
+    },
+    {
+      "title": "About Page #2",
+      "category": "About Us pages",
+      "isFeatured": "yes",
+      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/about_us_pages.png?alt=media&token=b5dc0f22-4ae7-4792-a99e-2d7011b044f5",
+      "siteUrl": "https://www.google.com/"
+    },
+    {
+      "title": "About Page #3",
+      "category": "About Us pages",
+      "isFeatured": "no",
+      "siteImage": "https://firebasestorage.googleapis.com/v0/b/fire-sites.appspot.com/o/about_us_pages.png?alt=media&token=b5dc0f22-4ae7-4792-a99e-2d7011b044f5",
+      "siteUrl": "https://www.google.com/"
+    }
+  ]
+}
