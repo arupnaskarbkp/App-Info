@@ -1,11 +1,5 @@
 {
-    "CurrentAffairs": [
-    {
-    "id": 1,
-    "ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/allicon.png",
-    "WebUrl": "https://news.google.com/covid19/map?hl=en-IN&gl=IN&ceid=IN%3Aen&mid=%2Fm%2F03rk0",
-    "Title": "COVID-19 Live Status"
-    },    
+    "CurrentAffairs": [   
     {
     "id": 1,
     "ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/allicon.png",
