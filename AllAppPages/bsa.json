@@ -1,0 +1,28 @@
+{
+    "slider": [
+    {
+    "id": 1,
+    "ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/Math.png",
+    "WebUrl": "https://arupnaskarbkp.github.io/App-Info/Math-Suggestion/formula/",
+    "Title": "Math Formula"
+    },
+    {
+    "id": 2,
+    "ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/Math.png",
+    "WebUrl": "https://mathchallange.blogspot.com/",
+    "Title": "Math Suggestion"
+    },
+    {
+    "id": 3,
+    "ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/Math.png",
+    "WebUrl": "https://bcurrenta.blogspot.com/p/coming-soon.html",
+    "Title": "Math Books -1"
+    },
+    {
+    "id": 4,
+    "ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/Math.png",
+    "WebUrl": "https://bcurrenta.blogspot.com/p/coming-soon.html",
+    "Title": "Math Books -2"
+    }
+    ]
+    }
