@@ -1,23 +1,24 @@
-[
-    {
-        "id": "1",
-        "title": "Slide 1",
-        "description": "First of three slide",
-        "imageUrl": "https://cdn.pixabay.com/photo/2014/02/27/16/10/spring-276014__340.jpg",
-        "weburl": "https://www.google.com/"
-    },
-    {
-        "id": "2",
-        "title": "Slide 2",
-        "description": "Second of three slide",
-        "imageUrl": "https://cdn.pixabay.com/photo/2015/01/07/15/51/woman-591576_960_720.jpg",
-        "weburl": "https://www.google.com/"
-    },
-    {
-        "id": "3",
-        "title": "Slide 3",
-        "description": "Third of three slide",
-        "imageUrl": "https://cdn.pixabay.com/photo/2020/06/01/12/58/fantasy-5246529__340.jpg",
-        "weburl": "https://www.google.com/"
-    }
-]
+{
+	"Bengali": [{
+			"id": "1",
+			"title": "Slide 1",
+			"description": "First of three slide",
+			"imageUrl": "https://cdn.pixabay.com/photo/2014/02/27/16/10/spring-276014__340.jpg",
+			"weburl": "https://www.google.com/"
+		},
+		{
+			"id": "2",
+			"title": "Slide 2",
+			"description": "Second of three slide",
+			"imageUrl": "https://cdn.pixabay.com/photo/2015/01/07/15/51/woman-591576_960_720.jpg",
+			"weburl": "https://www.google.com/"
+		},
+		{
+			"id": "3",
+			"title": "Slide 3",
+			"description": "Third of three slide",
+			"imageUrl": "https://cdn.pixabay.com/photo/2020/06/01/12/58/fantasy-5246529__340.jpg",
+			"weburl": "https://www.google.com/"
+		}
+	]
+}
