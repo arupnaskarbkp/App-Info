@@ -1,0 +1,37 @@
+[
+{
+"id": "1",
+"title": "Slide 1",
+"description": "First of three slide",
+"imageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/slider/slider%20(5).jpg",
+"weburl": "https://www.google.com/"
+},
+{
+"id": "2",
+"title": "Slide 2",
+"description": "Second of three slide",
+"imageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/slider/slider%20(4).jpg",
+"weburl": "https://www.w3schools.com/"
+},
+{
+"id": "3",
+"title": "Slide 2",
+"description": "Second of three slide",
+"imageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/slider/slider%20(3).jpg",
+"weburl": "https://www.kumar360.com/"
+},
+{
+"id": "4",
+"title": "Slide 2",
+"description": "Second of three slide",
+"imageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/slider/slider%20(2).jpg",
+"weburl": "https://www.mockplus.com/blog/post/loading-animation"
+},
+{
+"id": "5",
+"title": "Slide 3",
+"description": "Third of three slide",
+"imageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/slider/slider%20(1).jpg",
+"weburl": "https://jobs.swapno.in/"
+}
+]
