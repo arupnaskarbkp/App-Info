@@ -1,17 +1,5 @@
 {
-    "CurrentAffairs": [    
-    {
-    "id": 2,
-    "ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/allicon.png",
-    "WebUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/Current-Affairs/ca-20.html",
-    "Title": "কারেন্ট অ্যাফেয়ার্স ২০২০ পিডিএফ"
-    },
-    {
-    "id": 3,
-    "ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/allicon.png",
-    "WebUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/Current-Affairs/ca-19.html",
-    "Title": "কারেন্ট অ্যাফেয়ার্স ২০১৯ পিডিএফ"
-    },
+    "CurrentAffairs": [
    {
     "id": 6,
     "ImageUrl": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/allicon.png",
