@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Social Media",
+    "img": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/allicon.png"
+  },
+  {
+    "id": 2,
+    "name": "Profil",
+    "img": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/allicon.png"
+  },
+  {
+    "id": 3,
+    "name": "Artis Indonesia",
+    "img": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/allicon.png"
+  },
+  {
+    "id": 4,
+    "name": "Komedian",
+    "img": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/allicon.png"
+  },
+  {
+    "id": 5,
+    "name": "Selebgram",
+    "img": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/allicon.png"
+  },
+  {
+    "id": 6,
+    "name": "Youtuber",
+    "img": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/allicon.png"
+  },
+  {
+    "id": 7,
+    "name": "Artis Asia",
+    "img": "https://arupnaskarbkp.github.io/App-Info/B-C-A/All-Icon/allicon.png"
+  }
+  ]
