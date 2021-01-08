@@ -1,444 +1,1164 @@
 {
-	"data": [{
-		"spotlight_id": "90",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201212122415.jpg",
-		"spotlight_model_no": "GPGN-D000560257",
-		"spotlight_name": "Vintage Art Gold Jhumka Earrings",
-		"spotlight_price": "82193",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/vintage-art-gold-jhumka-earrings"
-	}, {
-		"spotlight_id": "89",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201212121810.jpg",
-		"spotlight_model_no": "GPGN-D000560256",
-		"spotlight_name": "Lord Laxmi Craft Gold Jhumka Earrings",
-		"spotlight_price": "64958",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/lord-laxmi-craft-gold-jhumka-earrings"
-	}, {
-		"spotlight_id": "88",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201212120844.jpg",
-		"spotlight_model_no": "GPGN-D000560255",
-		"spotlight_name": "Glowing Flower Gold Jhumka Earrings",
-		"spotlight_price": "67210",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/glowing-flower-gold-jhumka-earrings"
-	}, {
-		"spotlight_id": "87",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201212115630.jpg",
-		"spotlight_model_no": "GPGN-D000360828",
-		"spotlight_name": "Lord N' Ball Art Gold Jhumka Earrings",
-		"spotlight_price": "114895",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/lord-n-ball-art-gold-jhumka-earrings"
-	}, {
-		"spotlight_id": "86",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201212115049.jpg",
-		"spotlight_model_no": "GPGN-D000560598",
-		"spotlight_name": "Kalka Designed Gold Jhumka Earrings",
-		"spotlight_price": "87777",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/kalka-designed-gold-jhumka-earrings"
-	}, {
-		"spotlight_id": "85",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201211122313.jpg",
-		"spotlight_model_no": "GN-D000416857",
-		"spotlight_name": "An Ancient Adroitness Gold Necklace",
-		"spotlight_price": "272498",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/an-ancient-adroitness-gold-necklace"
-	}, {
-		"spotlight_id": "84",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201211121605.jpg",
-		"spotlight_model_no": "GCH-D000413829",
-		"spotlight_name": "Conch Style Gold Sleek Bangle",
-		"spotlight_price": "68125",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/conch-style-gold-sleek-bangle"
-	}, {
-		"spotlight_id": "83",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201211121138.jpg",
-		"spotlight_model_no": "GCH-D000412460",
-		"spotlight_name": "Royalty Kankan Sahi Bala",
-		"spotlight_price": "206973",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/royalty-kankan-sahi-bala"
-	}, {
-		"spotlight_id": "82",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201211120949.jpg",
-		"spotlight_model_no": "GCH-D000557154",
-		"spotlight_name": "Classy Engraved Gold Bala",
-		"spotlight_price": "123863",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/classy-engraved-gold-bala"
-	}, {
-		"spotlight_id": "81",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201211120801.jpg",
-		"spotlight_model_no": "GBL-D000374824",
-		"spotlight_name": "Glorified Rajasthani Gold Bala",
-		"spotlight_price": "209201",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/glorified-rajasthani-gold-bala"
-	}, {
-		"spotlight_id": "80",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201211120548.jpg",
-		"spotlight_model_no": "GCH-D000472647",
-		"spotlight_name": "Unparalleled Craft Gold Bala",
-		"spotlight_price": "125721",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/unparalleled-craft-gold-bala"
-	}, {
-		"spotlight_id": "79",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201211120344.jpg",
-		"spotlight_model_no": "GJ-D000373764",
-		"spotlight_name": "Antiquated Rezi Gold Jhumka Earrings",
-		"spotlight_price": "121111",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/antiquated-rezi-gold-jhumka-earrings"
-	}, {
-		"spotlight_id": "78",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201211120114.jpg",
-		"spotlight_model_no": "GCH-D000279536",
-		"spotlight_name": "Archaic Royalty Gold Bouti Chur",
-		"spotlight_price": "409707",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/archaic-royalty-gold-bouti-chur"
-	}, {
-		"spotlight_id": "77",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201205122253.jpg",
-		"spotlight_model_no": "PDB-D000530778",
-		"spotlight_name": "Circle of Life Platinum Bracelet",
-		"spotlight_price": "64613",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/circle-of-life-platinum-bracelet"
-	}, {
-		"spotlight_id": "76",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201205122146.jpg",
-		"spotlight_model_no": "PDB-D000530780",
-		"spotlight_name": "Spiral Platinum Bracelet",
-		"spotlight_price": "57549",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/spiral-platinum-bracelet"
-	}, {
-		"spotlight_id": "75",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201205122026.jpg",
-		"spotlight_model_no": "PDB-D000530782",
-		"spotlight_name": "Caterpillar Platinum Bracelet",
-		"spotlight_price": "57747",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/caterpillar-platinum-bracelet"
-	}, {
-		"spotlight_id": "74",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201205121832.jpg",
-		"spotlight_model_no": "PDB-D000530784",
-		"spotlight_name": "Spearhead Platinum Bracelet",
-		"spotlight_price": "64214",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/spearhead-platinum-bracelet"
-	}, {
-		"spotlight_id": "73",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201205121616.jpg",
-		"spotlight_model_no": "PDB-D000530786",
-		"spotlight_name": "Overlapping Snake Platinum Bracelet",
-		"spotlight_price": "46495",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/overlapping-snake-platinum-bracelet"
-	}, {
-		"spotlight_id": "72",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201205121447.jpg",
-		"spotlight_model_no": "PDB-D000530788",
-		"spotlight_name": "Knot Platinum Bracelet",
-		"spotlight_price": "55294",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/knot-platinum-bracelet"
-	}, {
-		"spotlight_id": "71",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201205121306.jpg",
-		"spotlight_model_no": "PDB-D000530790",
-		"spotlight_name": "Royal Twin Platinum Bracelet",
-		"spotlight_price": "80880",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/royal-twin-platinum-bracelet"
-	}, {
-		"spotlight_id": "70",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201205121126.jpg",
-		"spotlight_model_no": "PDB-D000530792",
-		"spotlight_name": "Arrowhead Tribal Platinum Bracelet",
-		"spotlight_price": "56960",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/arrowhead-tribal-platinum-bracelet"
-	}, {
-		"spotlight_id": "69",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201205121011.jpg",
-		"spotlight_model_no": "PDB-D000530796",
-		"spotlight_name": "Hoop Platinum Bracelet",
-		"spotlight_price": "66985",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/hoop-platinum-bracelet"
-	}, {
-		"spotlight_id": "68",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201205120807.jpg",
-		"spotlight_model_no": "PDB-D000553783",
-		"spotlight_name": "Pearl Platinum Bracelet",
-		"spotlight_price": "46240",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/pearl-platinum-bracelet"
-	}, {
-		"spotlight_id": "58",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201106180214.jpg",
-		"spotlight_model_no": "GPN-D000552114",
-		"spotlight_name": "Durga Astra Gold Pendant",
-		"spotlight_price": "12737",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/durga-astra-gold-pendant"
-	}, {
-		"spotlight_id": "34",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201106180048.jpg",
-		"spotlight_model_no": "GPN-D000555286",
-		"spotlight_name": "Surya Sikha Gold Pendant",
-		"spotlight_price": "6369",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/surya-sikha-gold-pendant"
-	}, {
-		"spotlight_id": "64",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105162906.jpg",
-		"spotlight_model_no": "GLR-D000552125",
-		"spotlight_name": "Jay Shree Gold Ring",
-		"spotlight_price": "19105",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/jay-shree-gold-ring"
-	}, {
-		"spotlight_id": "63",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105162803.jpg",
-		"spotlight_model_no": "GLR-D000552140",
-		"spotlight_name": "Spiritual Om Gold Ring",
-		"spotlight_price": "19105",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/spiritual-om-gold-ring"
-	}, {
-		"spotlight_id": "62",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105162711.jpg",
-		"spotlight_model_no": "GPN-D000552104",
-		"spotlight_name": " Ganesha Gold Pendant",
-		"spotlight_price": "12737",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/ganesha-gold-pendant"
-	}, {
-		"spotlight_id": "61",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105162606.jpg",
-		"spotlight_model_no": "GPN-D000552105",
-		"spotlight_name": "Shubh Swastik Gold Pendant",
-		"spotlight_price": "12737",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/shubh-swastik-gold-pendant"
-	}, {
-		"spotlight_id": "60",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105162446.jpg",
-		"spotlight_model_no": "GPN-D000552107",
-		"spotlight_name": "Mor Pankh Gold Pendant",
-		"spotlight_price": "12737",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/mor-pankh-gold-pendant"
-	}, {
-		"spotlight_id": "59",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105162345.jpg",
-		"spotlight_model_no": "GPN-D000552108",
-		"spotlight_name": "Maa Gold Pendant",
-		"spotlight_price": "6369",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/maa-gold-pendant"
-	}, {
-		"spotlight_id": "57",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105162120.jpg",
-		"spotlight_model_no": "GT-D000552100",
-		"spotlight_name": "Tri Shakti Swastika Gold Pendant",
-		"spotlight_price": "25473",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/tri-shakti-swastika-gold-pendant"
-	}, {
-		"spotlight_id": "56",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105161949.jpg",
-		"spotlight_model_no": "GCH-D000552101",
-		"spotlight_name": "Blessed Lotus Gold Bracelet",
-		"spotlight_price": "50945",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/blessed-lotus-gold-bracelet"
-	}, {
-		"spotlight_id": "55",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105161856.jpg",
-		"spotlight_model_no": "GCH-D000552102",
-		"spotlight_name": "Jay Mata Di Gold Bracelet",
-		"spotlight_price": "63681",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/jay-mata-di-gold-bracelet"
-	}, {
-		"spotlight_id": "54",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105161800.jpg",
-		"spotlight_model_no": "GLR-D000552127",
-		"spotlight_name": "Trishul Power Gold Ring",
-		"spotlight_price": "19105",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/trishul-power-gold-ring"
-	}, {
-		"spotlight_id": "53",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105161638.jpg",
-		"spotlight_model_no": "GPN-D000553792",
-		"spotlight_name": "Rudra Sikha Gold Pendant",
-		"spotlight_price": "67502",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/rudra-sikha-gold-pendant"
-	}, {
-		"spotlight_id": "52",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105161530.jpg",
-		"spotlight_model_no": "GPN-D000553794",
-		"spotlight_name": "Shiv Rudra Gold Pendant",
-		"spotlight_price": "48397",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/shiv-rudra-gold-pendant"
-	}, {
-		"spotlight_id": "51",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105161226.jpg",
-		"spotlight_model_no": "GPN-D000553859",
-		"spotlight_name": "OM Shivay Gold Pendant",
-		"spotlight_price": "9553",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/om-shivay-gold-pendant"
-	}, {
-		"spotlight_id": "50",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105161117.jpg",
-		"spotlight_model_no": "GPN-D000553860",
-		"spotlight_name": "Shiv Tilak Gold Pendant",
-		"spotlight_price": "12737",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/shiv-tilak-gold-pendant"
-	}, {
-		"spotlight_id": "49",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105160950.jpg",
-		"spotlight_model_no": "GPN-D000553862",
-		"spotlight_name": "Tri Dhara Gold Pendant",
-		"spotlight_price": "12737",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/tri-dhara-gold-pendant"
-	}, {
-		"spotlight_id": "48",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105160832.jpg",
-		"spotlight_model_no": "GPN-D000553863",
-		"spotlight_name": "Kalka Embrace Kamal Gold Pendant",
-		"spotlight_price": "6369",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/kalka-embrace-kamal-gold-pendant"
-	}, {
-		"spotlight_id": "47",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105160712.jpg",
-		"spotlight_model_no": "GPN-D000553864",
-		"spotlight_name": "Glorious Third Eye Gold Pendant",
-		"spotlight_price": "12737",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/glorious-third-eye-gold-pendant"
-	}, {
-		"spotlight_id": "46",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105160545.jpg",
-		"spotlight_model_no": "GPN-D000553866",
-		"spotlight_name": "Tri-Nayani Gold Pendant",
-		"spotlight_price": "6369",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/tri-nayani-gold-pendant"
-	}, {
-		"spotlight_id": "45",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105160438.jpg",
-		"spotlight_model_no": "GPN-D000553914",
-		"spotlight_name": "Shankh Durga Gold Pendant",
-		"spotlight_price": "33992",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/shankh-durga-gold-pendant"
-	}, {
-		"spotlight_id": "44",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105160105.jpg",
-		"spotlight_model_no": "DCP-D000552485",
-		"spotlight_name": "Surya Kiran Diamond Double Loop Chain Pendant",
-		"spotlight_price": "46935",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/surya-kiran-diamond-double-loop-chain-pendant"
-	}, {
-		"spotlight_id": "43",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105155910.jpg",
-		"spotlight_model_no": "DPN-D000552477",
-		"spotlight_name": "Graceful Lotus Diamond Pendant",
-		"spotlight_price": "66120",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/graceful-lotus-diamond-pendant"
-	}, {
-		"spotlight_id": "42",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105155813.jpg",
-		"spotlight_model_no": "DPN-D000552478",
-		"spotlight_name": "Shiv Shakti Diamond Pendant",
-		"spotlight_price": "30339",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/shiv-shakti-diamond-pendant"
-	}, {
-		"spotlight_id": "41",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105155707.jpg",
-		"spotlight_model_no": "DPN-D000552480",
-		"spotlight_name": "Tir-Jala Diamond Pendant",
-		"spotlight_price": "33257",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/tir-jala-diamond-pendant"
-	}, {
-		"spotlight_id": "40",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105155543.jpg",
-		"spotlight_model_no": "DPN-D000552482",
-		"spotlight_name": "Weapon Of Destroy Diamond Pendant",
-		"spotlight_price": "28697",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/weapon-of-destroy-diamond-pendant"
-	}, {
-		"spotlight_id": "39",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105155342.jpg",
-		"spotlight_model_no": "DPN-D000553296",
-		"spotlight_name": "Heavenly Lotus Diamond Pendant",
-		"spotlight_price": "55328",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/heavenly-lotus-diamond-pendant"
-	}, {
-		"spotlight_id": "38",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105154819.jpg",
-		"spotlight_model_no": "GP-D000555287",
-		"spotlight_name": "Dhanush Ban Gold Earrings",
-		"spotlight_price": "6369",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/dhanush-ban-gold-earrings"
-	}, {
-		"spotlight_id": "37",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105154546.jpg",
-		"spotlight_model_no": "GPN-D000552103",
-		"spotlight_name": "Shree Ram Gold Pendant",
-		"spotlight_price": "12737",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/shree-ram-gold-pendant"
-	}, {
-		"spotlight_id": "36",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105154404.jpg",
-		"spotlight_model_no": "GP-D000553894",
-		"spotlight_name": "Kamal Ful Gold Earrings",
-		"spotlight_price": "33114",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/kamal-ful-gold-earrings"
-	}, {
-		"spotlight_id": "35",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105154252.jpg",
-		"spotlight_model_no": "GPN-D000555283",
-		"spotlight_name": "Damru Gold Pendant",
-		"spotlight_price": "9553",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/damru-gold-pendant"
-	}, {
-		"spotlight_id": "33",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105153755.jpg",
-		"spotlight_model_no": "GP-D000555793",
-		"spotlight_name": "Embrace Lotus Gold Earrings",
-		"spotlight_price": "12737",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/embrace-lotus-gold-earrings"
-	}, {
-		"spotlight_id": "32",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105153501.jpg",
-		"spotlight_model_no": "GP-D000555794",
-		"spotlight_name": "Tri-Lotus Gold Earrings",
-		"spotlight_price": "19105",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/tri-lotus-gold-earrings"
-	}, {
-		"spotlight_id": "26",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201019114551.jpg",
-		"spotlight_model_no": "DPN-D000546194",
-		"spotlight_name": "Wings Of Jesus Christ Gold Diamond Pendant",
-		"spotlight_price": "22327",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/wings-of-jesus-christ-gold-diamond-pendant"
-	}, {
-		"spotlight_id": "25",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201019114441.jpg",
-		"spotlight_model_no": "GPN-D000546713",
-		"spotlight_name": "The Tri Version Gold Pendant",
-		"spotlight_price": "19379",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/the-tri-version-gold-pendant"
-	}, {
-		"spotlight_id": "24",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201019114246.jpg",
-		"spotlight_model_no": "DPN-D000552478",
-		"spotlight_name": "Shiv Shakti Diamond Pendant",
-		"spotlight_price": "34807",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/shiv-shakti-diamond-pendant"
-	}, {
-		"spotlight_id": "23",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201019114124.jpg",
-		"spotlight_model_no": "GCH-D000552101",
-		"spotlight_name": "Blessed Lotus Gold Bracelet",
-		"spotlight_price": "51675",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/blessed-lotus-gold-bracelet"
-	}, {
-		"spotlight_id": "22",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201019113948.jpg",
-		"spotlight_model_no": "GP-D000553886",
-		"spotlight_name": "Rudraksh Pritvi Gold Long Earrings",
-		"spotlight_price": "41341",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/rudraksh-pritvi-gold-long-earrings"
-	}, {
-		"spotlight_id": "21",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201019113459.jpg",
-		"spotlight_model_no": "GPN-D000555286",
-		"spotlight_name": "Surya Sikha Gold Pendant",
-		"spotlight_price": "6460",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/surya-sikha-gold-pendant"
-	}, {
-		"spotlight_id": "20",
-		"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201019113253.jpg",
-		"spotlight_model_no": "GP-D000555794",
-		"spotlight_name": "Tri-Lotus Gold Earrings",
-		"spotlight_price": "19379",
-		"spotlight_url": "https://sencogoldanddiamonds.com/products/tri-lotus-gold-earrings"
-	}]
+	"Collection": {
+		"data": [{
+			"collection_id": "95",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211165814.jpg",
+			"collection_title": "Pear Green Bead Gold Drops",
+			"collection_url": "https://sencogoldanddiamonds.com/products/pear-green-bead-gold-drops"
+		}, {
+			"collection_id": "94",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211165710.jpg",
+			"collection_title": "The Victoria Pearl Gold Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/the-victoria-pearl-gold-necklace"
+		}, {
+			"collection_id": "93",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211165547.jpg",
+			"collection_title": "Arabic Style Gold Choker Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/arabic-style-gold-choker-necklace"
+		}, {
+			"collection_id": "92",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211160114.jpg",
+			"collection_title": "Hexagon Craft Gold Choker Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/hexagon-craft-gold-choker-necklace"
+		}, {
+			"collection_id": "91",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211155749.jpg",
+			"collection_title": "Cube Art Embrace Gold Choker",
+			"collection_url": "https://sencogoldanddiamonds.com/products/cube-art-embrace-gold-choker"
+		}, {
+			"collection_id": "90",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211155622.jpg",
+			"collection_title": "Authenticate Chinese Pearl Gold Choker",
+			"collection_url": "https://sencogoldanddiamonds.com/products/authenticate-chinese-pearl-gold-choker"
+		}, {
+			"collection_id": "89",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211155321.jpg",
+			"collection_title": "Glorified Chinese Pearl Gold Choker",
+			"collection_url": "https://sencogoldanddiamonds.com/products/glorified-chinese-pearl-gold-choker"
+		}, {
+			"collection_id": "88",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211154104.jpg",
+			"collection_title": "Traditional Glimpse Gold Choker",
+			"collection_url": "https://sencogoldanddiamonds.com/products/traditional-glimpse-gold-choker"
+		}, {
+			"collection_id": "87",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211152802.jpg",
+			"collection_title": "Daisy With Chinese Pearl Gold Choker",
+			"collection_url": "https://sencogoldanddiamonds.com/products/daisy-with-chinese-pearl-gold-choker"
+		}, {
+			"collection_id": "86",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211152445.jpg",
+			"collection_title": "Exquisite Filigree Craft Gold Choker",
+			"collection_url": "https://sencogoldanddiamonds.com/products/exquisite-filigree-craft-gold-choker"
+		}, {
+			"collection_id": "85",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211152310.jpg",
+			"collection_title": "Lavender Grace Meena Gold Earrings",
+			"collection_url": "https://sencogoldanddiamonds.com/products/lavender-grace-meena-gold-earrings"
+		}, {
+			"collection_id": "84",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211152129.jpg",
+			"collection_title": "Star Enhanced Polki Stud Earrings",
+			"collection_url": "https://sencogoldanddiamonds.com/products/star-enhanced-polki-stud-earrings"
+		}, {
+			"collection_id": "83",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211152021.jpg",
+			"collection_title": "Magnified Emerald N Polki Drop Earrings",
+			"collection_url": "https://sencogoldanddiamonds.com/products/magnified-emerald-n-polki-drop-earrings"
+		}, {
+			"collection_id": "82",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211150206.jpg",
+			"collection_title": "Polki Enriched Floral Stud Earrings",
+			"collection_url": "https://sencogoldanddiamonds.com/products/square-vibrant-stud-earrings"
+		}, {
+			"collection_id": "81",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211150056.jpg",
+			"collection_title": "Polki Enriched Floral Stud Earrings",
+			"collection_url": "https://sencogoldanddiamonds.com/products/polki-enriched-floral-stud-earrings"
+		}, {
+			"collection_id": "80",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211145625.jpg",
+			"collection_title": "Vedure Bead Stud Earrings",
+			"collection_url": "https://sencogoldanddiamonds.com/products/vedure-bead-stud-earrings"
+		}, {
+			"collection_id": "79",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211145312.jpg",
+			"collection_title": "Beautiful Emerald Gold Jhumka Earrings",
+			"collection_url": "https://sencogoldanddiamonds.com/products/beautiful-emerald-gold-jhumka-earrings"
+		}, {
+			"collection_id": "78",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211145133.jpg",
+			"collection_title": "Flourish Polki Gold Jhumka Earrings",
+			"collection_url": "https://sencogoldanddiamonds.com/products/flourish-polki-gold-jhumka-earrings"
+		}, {
+			"collection_id": "77",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211144957.jpg",
+			"collection_title": "Pearl N Polki Engraved Gold Earrings",
+			"collection_url": "https://sencogoldanddiamonds.com/products/pearl-n-polki-engraved-gold-earrings"
+		}, {
+			"collection_id": "76",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211144401.jpg",
+			"collection_title": "Sobering Polki Gold Drop Earrings",
+			"collection_url": "https://sencogoldanddiamonds.com/products/sobering-polki-gold-drop-earrings"
+		}, {
+			"collection_id": "75",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211144002.jpg",
+			"collection_title": "Adornment Meena Gold Earrings",
+			"collection_url": "https://sencogoldanddiamonds.com/products/adornment-meena-gold-earrings"
+		}, {
+			"collection_id": "74",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211143732.jpg",
+			"collection_title": "Chandbali Tayra Embraced Gold Choker",
+			"collection_url": "https://sencogoldanddiamonds.com/products/chandbali-tayra-embraced-gold-choker"
+		}, {
+			"collection_id": "73",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211143625.jpg",
+			"collection_title": "Illusion Embrace Gold Choker",
+			"collection_url": "https://sencogoldanddiamonds.com/products/illusion-embrace-gold-choker"
+		}, {
+			"collection_id": "72",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211143228.jpg",
+			"collection_title": "Mughal Glimpse Gold Choker",
+			"collection_url": "https://sencogoldanddiamonds.com/products/mughal-glimpse-gold-choker"
+		}, {
+			"collection_id": "71",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211143113.jpg",
+			"collection_title": "Lavish Embellished Gold Choker",
+			"collection_url": "https://sencogoldanddiamonds.com/products/lavish-embellished-gold-choker"
+		}, {
+			"collection_id": "70",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211142950.jpg",
+			"collection_title": "Elegance Pearl Beauty Gold Choker",
+			"collection_url": "https://sencogoldanddiamonds.com/products/elegance-pearl-beauty-gold-choker"
+		}, {
+			"collection_id": "69",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211142738.jpg",
+			"collection_title": "Chandbali Verdant Bead Gold Choker",
+			"collection_url": "https://sencogoldanddiamonds.com/products/chandbali-verdant-bead-gold-choker"
+		}, {
+			"collection_id": "68",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211142634.jpg",
+			"collection_title": "Rainbow Pearl Grace Gold Choker",
+			"collection_url": "https://sencogoldanddiamonds.com/products/rainbow-pearl-grace-gold-choker"
+		}, {
+			"collection_id": "67",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211142433.jpg",
+			"collection_title": "Embodied Emerald N Polki Gold Choker",
+			"collection_url": "https://sencogoldanddiamonds.com/products/embodied-emerald-n-polki-gold-choker"
+		}, {
+			"collection_id": "66",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211132915.jpg",
+			"collection_title": "Radiant Bead Enhanced Gold Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/radiant-bead-enhanced-gold-necklace"
+		}, {
+			"collection_id": "63",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211131726.jpg",
+			"collection_title": "Bead Diversity Glint Gold Choker",
+			"collection_url": "https://sencogoldanddiamonds.com/products/bead-diversity-glint-gold-choker"
+		}, {
+			"collection_id": "61",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211130814.jpg",
+			"collection_title": "Viridescent Swing Polki Gold Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/viridescent-swing-polki-gold-necklace"
+		}, {
+			"collection_id": "60",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211130320.jpg",
+			"collection_title": "Elegant Spiral Polki Gold Sleek Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/elegant-spiral-polki-gold-sleek-necklace"
+		}, {
+			"collection_id": "59",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211130134.jpg",
+			"collection_title": "https://sencogoldanddiamonds.com/products/regality-polki-n-bead-gold-necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/regality-polki-n-bead-gold-necklace"
+		}, {
+			"collection_id": "58",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211125745.jpg",
+			"collection_title": "Stunning Polki n Bead Gold Choker Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/stunning-polki-n-bead-gold-choker-necklace"
+		}, {
+			"collection_id": "57",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211125623.jpg",
+			"collection_title": "Emerald Bead Embodied Gold Choker Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/emerald-bead-embodied-gold-choker-necklace"
+		}, {
+			"collection_id": "56",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201211125443.jpg",
+			"collection_title": "Rajasthani Royalty Gold Choker Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/rajasthani-royalty-gold-choker-necklace"
+		}, {
+			"collection_id": "54",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201104131902.jpg",
+			"collection_title": "Embellished Moon-Paisley Gold Earrings",
+			"collection_url": "https://sencogoldanddiamonds.com/products/embellished-moon-paisley-gold-earrings"
+		}, {
+			"collection_id": "53",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201104131745.jpg",
+			"collection_title": "Intellectual Jaal Craft Gold Earrings",
+			"collection_url": "https://sencogoldanddiamonds.com/products/intellectual-jaal-craft-gold-earrings"
+		}, {
+			"collection_id": "52",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201104131700.jpg",
+			"collection_title": "An Ancient Art Deco Gold Danglers",
+			"collection_url": "https://sencogoldanddiamonds.com/products/an-ancient-art-deco-gold-danglers"
+		}, {
+			"collection_id": "51",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201104131604.jpg",
+			"collection_title": "Filigree N Paisley Artistry Gold Earrings",
+			"collection_url": "https://sencogoldanddiamonds.com/products/filigree-n-paisley-artistry-gold-earrings"
+		}, {
+			"collection_id": "50",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201104131520.jpg",
+			"collection_title": "Nakshi Swing Gold Danglers",
+			"collection_url": "https://sencogoldanddiamonds.com/products/nakshi-swing-gold-danglers"
+		}, {
+			"collection_id": "49",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201104130641.jpg",
+			"collection_title": "Extravagant Sun-Flower Gold Chandelier",
+			"collection_url": "https://sencogoldanddiamonds.com/products/extravagant-sun-flower-gold-chandelier"
+		}, {
+			"collection_id": "48",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201104130557.jpg",
+			"collection_title": "Elevation Craft Gold Earrings",
+			"collection_url": "https://sencogoldanddiamonds.com/products/elevation-craft-gold-earrings"
+		}, {
+			"collection_id": "47",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201104130451.jpg",
+			"collection_title": "An Exceptional Jhoomar Gold Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/an-exceptional-jhoomar-gold-necklace"
+		}, {
+			"collection_id": "46",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201104124149.jpg",
+			"collection_title": "The Grandeur Jhalar Gold Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/the-grandeur-jhalar-gold-necklace"
+		}, {
+			"collection_id": "45",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201104123540.jpg",
+			"collection_title": "Exclusive Tayra Enhanced Gold Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/exclusive-tayra-enhanced-gold-necklace"
+		}, {
+			"collection_id": "44",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201104123214.jpg",
+			"collection_title": "A Splendor 7 Lahari Gold Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/a-splendor-7-lahari-gold-necklace"
+		}, {
+			"collection_id": "43",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201104123109.jpg",
+			"collection_title": "Strings Of Grace Gold Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/strings-of-grace-gold-necklace"
+		}, {
+			"collection_id": "42",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201104122700.jpg",
+			"collection_title": "The Blooming Jhoomar Gold Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/the-blooming-jhoomar-gold-necklace"
+		}, {
+			"collection_id": "41",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201104122549.jpg",
+			"collection_title": "A Daisy Embraced Gold Opera Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/a-daisy-embraced-gold-opera-necklace"
+		}, {
+			"collection_id": "40",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201104121828.jpg",
+			"collection_title": "The Layered Jhoomar Gold Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/the-layered-jhoomar-gold-necklace"
+		}, {
+			"collection_id": "39",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201104121641.jpg",
+			"collection_title": "The Ceremonial Wave Gold Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/the-ceremonial-wave-gold-necklace"
+		}, {
+			"collection_id": "38",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201104121539.jpg",
+			"collection_title": "The Artistry Nature Gold Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/the-artistry-nature-gold-necklace"
+		}, {
+			"collection_id": "37",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201104121433.jpg",
+			"collection_title": "Filigree Drop Karigari Gold Sitahar",
+			"collection_url": "https://sencogoldanddiamonds.com/products/filigree-drop-karigari-gold-sitahar"
+		}, {
+			"collection_id": "36",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201104121057.jpg",
+			"collection_title": "The Nature Embrace Gold Sitahar",
+			"collection_url": "https://sencogoldanddiamonds.com/products/the-nature-embrace-gold-sitahar"
+		}, {
+			"collection_id": "35",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201104120916.jpg",
+			"collection_title": "Surya Sikha Embellished Gold Sitahar",
+			"collection_url": "https://sencogoldanddiamonds.com/products/surya-sikha-embellished-gold-sitahar"
+		}, {
+			"collection_id": "34",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201104120704.jpg",
+			"collection_title": "Paisley Moyi Embrace Gold Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/paisley-moyi-embrace-gold-necklace"
+		}, {
+			"collection_id": "33",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201104120537.jpg",
+			"collection_title": "The Victorian Craft Gold Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/the-victorian-craft-gold-necklace"
+		}, {
+			"collection_id": "32",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201104120018.jpg",
+			"collection_title": "The Gardenia Art Gold Choker Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/the-gardenia-art-gold-choker-necklace"
+		}, {
+			"collection_id": "31",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201104115506.jpg",
+			"collection_title": "Twining Chillai Craft V Gold Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/twining-chillai-craft-v-gold-necklace"
+		}, {
+			"collection_id": "30",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201104115405.jpg",
+			"collection_title": "Shining Array Gold Choker Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/shining-array-gold-choker-necklace"
+		}, {
+			"collection_id": "29",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201028111435.jpg",
+			"collection_title": "Royal Sunflower Gold Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/royal-sunflower-gold-necklace"
+		}, {
+			"collection_id": "28",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201028111327.jpg",
+			"collection_title": "Exquisite Surya Mukhi Gold Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/exquisite-surya-mukhi-gold-necklace"
+		}, {
+			"collection_id": "27",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201028111231.jpg",
+			"collection_title": "Saffron Daisy Gold Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/saffron-daisy-gold-necklace"
+		}, {
+			"collection_id": "26",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201028111131.jpg",
+			"collection_title": "Extravegant Craft Gold Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/extravegant-craft-gold-necklace"
+		}, {
+			"collection_id": "25",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201028111042.jpg",
+			"collection_title": "A Grandeur Opera Gold Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/a-grandeur-opera-gold-necklace"
+		}, {
+			"collection_id": "24",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201028110944.jpg",
+			"collection_title": "Delicate Crafted Gold Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/delicate-crafted-gold-necklace"
+		}, {
+			"collection_id": "23",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201028110823.jpg",
+			"collection_title": "Jaffri Artworked Gold Danglers",
+			"collection_url": "https://sencogoldanddiamonds.com/products/jaffri-artworked-gold-danglers"
+		}, {
+			"collection_id": "22",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201021193753.jpg",
+			"collection_title": "Swing Meena Gardenia Gold Earrings",
+			"collection_url": "https://sencogoldanddiamonds.com/products/swing-meena-gardenia-gold-earrings"
+		}, {
+			"collection_id": "21",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201021193713.jpg",
+			"collection_title": "Meena Embrace Perna Leaf Earrings",
+			"collection_url": "https://sencogoldanddiamonds.com/products/meena-embrace-perna-leaf-earrings"
+		}, {
+			"collection_id": "20",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201021193629.jpg",
+			"collection_title": "Meenakari Mayura Gold Earrings",
+			"collection_url": "https://sencogoldanddiamonds.com/products/meenakari-mayura-gold-earrings"
+		}, {
+			"collection_id": "19",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201021193543.jpg",
+			"collection_title": "Filigree Craftsmanship Gold Earrings",
+			"collection_url": "https://sencogoldanddiamonds.com/products/filigree-craftsmanship-gold-earrings"
+		}, {
+			"collection_id": "18",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201021193443.jpg",
+			"collection_title": "Surya Swing Gold Danglers",
+			"collection_url": "https://sencogoldanddiamonds.com/products/surya-swing-gold-danglers"
+		}, {
+			"collection_id": "17",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201021193313.jpg",
+			"collection_title": "Modernity Meenakari Parna Gold Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/modernity-meenakari-parna-gold-necklace"
+		}, {
+			"collection_id": "16",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201021193205.jpg",
+			"collection_title": "Meena Leaf Garden Gold Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/meena-leaf-garden-gold-necklace"
+		}, {
+			"collection_id": "15",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201021193057.jpg",
+			"collection_title": "Filigree Parna Gold Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/filigree-parna-gold-necklace"
+		}, {
+			"collection_id": "14",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201021192852.jpg",
+			"collection_title": "Tribhuja Flower Gold Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/tribhuja-flower-gold-necklace"
+		}, {
+			"collection_id": "13",
+			"collection_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/collection/20201021134243.jpg",
+			"collection_title": "Surya Meena Gold Necklace",
+			"collection_url": "https://sencogoldanddiamonds.com/products/surya-meena-gold-necklace"
+		}]
+	},
+	"Spotlight": {
+		"data": [{
+			"spotlight_id": "113",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210107190340.jpg",
+			"spotlight_model_no": "GT-D000565104",
+			"spotlight_name": "Ancient Lord Laxmi Gold Mangalsutra",
+			"spotlight_price": "83864",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/ancient-lord-laxmi-gold-mangalsutra"
+		}, {
+			"spotlight_id": "112",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210107185955.jpg",
+			"spotlight_model_no": "GT-D000562750",
+			"spotlight_name": "Two Knot Art Gold Mangalsutra",
+			"spotlight_price": "88636",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/two-knot-art-gold-mangalsutra"
+		}, {
+			"spotlight_id": "111",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210107185751.jpg",
+			"spotlight_model_no": "GT-D000557568",
+			"spotlight_name": "A Fondness Gold Mangalsutra",
+			"spotlight_price": "46364",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/a-fondness-gold-mangalsutra"
+		}, {
+			"spotlight_id": "110",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210107185547.jpg",
+			"spotlight_model_no": "GT-D000557561",
+			"spotlight_name": "A Faithful Gold Mangalsutra",
+			"spotlight_price": "37500",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/a-faithful-gold-mangalsutra"
+		}, {
+			"spotlight_id": "109",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210107185415.jpg",
+			"spotlight_model_no": "GT-D000557560",
+			"spotlight_name": "Crafted Ball Gold Mangalsutra",
+			"spotlight_price": "54546",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/crafted-ball-gold-mangalsutra"
+		}, {
+			"spotlight_id": "108",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210107185259.jpg",
+			"spotlight_model_no": "GT-D000557565",
+			"spotlight_name": "Blessing Chain Gold Mangalsutra",
+			"spotlight_price": "58636",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/blessing-chain-gold-mangalsutra"
+		}, {
+			"spotlight_id": "107",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210107185158.jpg",
+			"spotlight_model_no": "GT-D000557558",
+			"spotlight_name": "Antique Glint Gold Mangalsutra",
+			"spotlight_price": "63409",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/antique-glint-gold-mangalsutra"
+		}, {
+			"spotlight_id": "106",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210107185103.jpg",
+			"spotlight_model_no": "GT-D000557557",
+			"spotlight_name": "Traditional Drop Gold Mangalsutra",
+			"spotlight_price": "61364",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/traditional-drop-gold-mangalsutra"
+		}, {
+			"spotlight_id": "105",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210107184946.jpg",
+			"spotlight_model_no": "GT-D000557556",
+			"spotlight_name": "Insane Love Gold Mangalsutra",
+			"spotlight_price": "68182",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/insane-love-gold-mangalsutra"
+		}, {
+			"spotlight_id": "104",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210107184841.jpg",
+			"spotlight_model_no": "GT-D000557555",
+			"spotlight_name": "Modernity Grace Gold Mangalsutra",
+			"spotlight_price": "60682",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/modernity-grace-gold-mangalsutra"
+		}, {
+			"spotlight_id": "103",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210107184559.jpg",
+			"spotlight_model_no": "GT-D000555755",
+			"spotlight_name": "Exquisite Sunflower Gold Mangalsutra",
+			"spotlight_price": "270443",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/exquisite-sunflower-gold-mangalsutra"
+		}, {
+			"spotlight_id": "102",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210107184244.jpg",
+			"spotlight_model_no": "GT-D000553430",
+			"spotlight_name": "Grandeur Karigari Gold Mangalsutra",
+			"spotlight_price": "173182",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/grandeur-karigari-gold-mangalsutra"
+		}, {
+			"spotlight_id": "101",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210107184127.jpg",
+			"spotlight_model_no": "GT-D000553429",
+			"spotlight_name": "The Heart Craft Gold Mangalsutra",
+			"spotlight_price": "145227",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/the-heart-craft-gold-mangalsutra"
+		}, {
+			"spotlight_id": "100",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210107183932.jpg",
+			"spotlight_model_no": "GT-D000212054",
+			"spotlight_name": "Indian Beauty Gold Mangalsutra",
+			"spotlight_price": "184091",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/indian-beauty-gold-mangalsutra"
+		}, {
+			"spotlight_id": "99",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210107183819.jpg",
+			"spotlight_model_no": "GT-D000553417",
+			"spotlight_name": "The Sun-Ray Gold Mangalsutra",
+			"spotlight_price": "62727",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/the-sun-ray-gold-mangalsutra"
+		}, {
+			"spotlight_id": "98",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201224133850.jpg",
+			"spotlight_model_no": "DPN-D000528010",
+			"spotlight_name": "Campanion Birds Diamond Pendant",
+			"spotlight_price": "9829",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/campanion-birds-diamond-pendant"
+		}, {
+			"spotlight_id": "97",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201224133433.jpg",
+			"spotlight_model_no": "DPN-D000528013",
+			"spotlight_name": "Key Of Heart Diamond Pendant",
+			"spotlight_price": "10174",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/key-of-heart-diamond-pendant"
+		}, {
+			"spotlight_id": "96",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201224133216.jpg",
+			"spotlight_model_no": "DPN-D000528014",
+			"spotlight_name": "Doors To Heart Diamond Pendant",
+			"spotlight_price": "7186",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/doors-to-heart-diamond-pendant"
+		}, {
+			"spotlight_id": "95",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201224133014.jpg",
+			"spotlight_model_no": "DPN-D000541209",
+			"spotlight_name": "Infinity Love Diamond Pendant",
+			"spotlight_price": "11292",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/infinity-love-diamond-pendant"
+		}, {
+			"spotlight_id": "94",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201224132805.jpg",
+			"spotlight_model_no": "DPN-D000546188",
+			"spotlight_name": "Angel Bird Gold Diamond Pendant",
+			"spotlight_price": "22171",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/angel-bird-gold-diamond-pendant"
+		}, {
+			"spotlight_id": "93",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201224132513.jpg",
+			"spotlight_model_no": "DPN-D000546191",
+			"spotlight_name": "Sparkling Bird Gold Diamond Pendant",
+			"spotlight_price": "20208",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/sparkling-bird-gold-diamond-pendant"
+		}, {
+			"spotlight_id": "92",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201224132317.jpg",
+			"spotlight_model_no": "DPN-D000546195",
+			"spotlight_name": "Pretty Feather Gold Diamond Pendant",
+			"spotlight_price": "18118",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/pretty-feather-gold-diamond-pendant"
+		}, {
+			"spotlight_id": "91",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201224131931.jpg",
+			"spotlight_model_no": "DPN-D000546196",
+			"spotlight_name": "Wing Grace Gold Diamond Pendant",
+			"spotlight_price": "17700",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/wing-grace-gold-diamond-pendant"
+		}, {
+			"spotlight_id": "90",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201212122415.jpg",
+			"spotlight_model_no": "GPGN-D000560257",
+			"spotlight_name": "Vintage Art Gold Jhumka Earrings",
+			"spotlight_price": "82193",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/vintage-art-gold-jhumka-earrings"
+		}, {
+			"spotlight_id": "89",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201212121810.jpg",
+			"spotlight_model_no": "GPGN-D000560256",
+			"spotlight_name": "Lord Laxmi Craft Gold Jhumka Earrings",
+			"spotlight_price": "64958",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/lord-laxmi-craft-gold-jhumka-earrings"
+		}, {
+			"spotlight_id": "88",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201212120844.jpg",
+			"spotlight_model_no": "GPGN-D000560255",
+			"spotlight_name": "Glowing Flower Gold Jhumka Earrings",
+			"spotlight_price": "67210",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/glowing-flower-gold-jhumka-earrings"
+		}, {
+			"spotlight_id": "87",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201212115630.jpg",
+			"spotlight_model_no": "GPGN-D000360828",
+			"spotlight_name": "Lord N' Ball Art Gold Jhumka Earrings",
+			"spotlight_price": "114895",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/lord-n-ball-art-gold-jhumka-earrings"
+		}, {
+			"spotlight_id": "86",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201212115049.jpg",
+			"spotlight_model_no": "GPGN-D000560598",
+			"spotlight_name": "Kalka Designed Gold Jhumka Earrings",
+			"spotlight_price": "87777",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/kalka-designed-gold-jhumka-earrings"
+		}, {
+			"spotlight_id": "85",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201211122313.jpg",
+			"spotlight_model_no": "GN-D000416857",
+			"spotlight_name": "An Ancient Adroitness Gold Necklace",
+			"spotlight_price": "272498",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/an-ancient-adroitness-gold-necklace"
+		}, {
+			"spotlight_id": "84",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201211121605.jpg",
+			"spotlight_model_no": "GCH-D000413829",
+			"spotlight_name": "Conch Style Gold Sleek Bangle",
+			"spotlight_price": "68125",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/conch-style-gold-sleek-bangle"
+		}, {
+			"spotlight_id": "83",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201211121138.jpg",
+			"spotlight_model_no": "GCH-D000412460",
+			"spotlight_name": "Royalty Kankan Sahi Bala",
+			"spotlight_price": "206973",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/royalty-kankan-sahi-bala"
+		}, {
+			"spotlight_id": "82",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201211120949.jpg",
+			"spotlight_model_no": "GCH-D000557154",
+			"spotlight_name": "Classy Engraved Gold Bala",
+			"spotlight_price": "123863",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/classy-engraved-gold-bala"
+		}, {
+			"spotlight_id": "81",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201211120801.jpg",
+			"spotlight_model_no": "GBL-D000374824",
+			"spotlight_name": "Glorified Rajasthani Gold Bala",
+			"spotlight_price": "209201",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/glorified-rajasthani-gold-bala"
+		}, {
+			"spotlight_id": "80",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201211120548.jpg",
+			"spotlight_model_no": "GCH-D000472647",
+			"spotlight_name": "Unparalleled Craft Gold Bala",
+			"spotlight_price": "125721",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/unparalleled-craft-gold-bala"
+		}, {
+			"spotlight_id": "79",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201211120344.jpg",
+			"spotlight_model_no": "GJ-D000373764",
+			"spotlight_name": "Antiquated Rezi Gold Jhumka Earrings",
+			"spotlight_price": "121111",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/antiquated-rezi-gold-jhumka-earrings"
+		}, {
+			"spotlight_id": "78",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201211120114.jpg",
+			"spotlight_model_no": "GCH-D000279536",
+			"spotlight_name": "Archaic Royalty Gold Bouti Chur",
+			"spotlight_price": "409707",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/archaic-royalty-gold-bouti-chur"
+		}, {
+			"spotlight_id": "77",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201205122253.jpg",
+			"spotlight_model_no": "PDB-D000530778",
+			"spotlight_name": "Circle of Life Platinum Bracelet",
+			"spotlight_price": "64613",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/circle-of-life-platinum-bracelet"
+		}, {
+			"spotlight_id": "76",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201205122146.jpg",
+			"spotlight_model_no": "PDB-D000530780",
+			"spotlight_name": "Spiral Platinum Bracelet",
+			"spotlight_price": "57549",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/spiral-platinum-bracelet"
+		}, {
+			"spotlight_id": "75",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201205122026.jpg",
+			"spotlight_model_no": "PDB-D000530782",
+			"spotlight_name": "Caterpillar Platinum Bracelet",
+			"spotlight_price": "57747",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/caterpillar-platinum-bracelet"
+		}, {
+			"spotlight_id": "74",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201205121832.jpg",
+			"spotlight_model_no": "PDB-D000530784",
+			"spotlight_name": "Spearhead Platinum Bracelet",
+			"spotlight_price": "64214",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/spearhead-platinum-bracelet"
+		}, {
+			"spotlight_id": "73",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201205121616.jpg",
+			"spotlight_model_no": "PDB-D000530786",
+			"spotlight_name": "Overlapping Snake Platinum Bracelet",
+			"spotlight_price": "46495",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/overlapping-snake-platinum-bracelet"
+		}, {
+			"spotlight_id": "72",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201205121447.jpg",
+			"spotlight_model_no": "PDB-D000530788",
+			"spotlight_name": "Knot Platinum Bracelet",
+			"spotlight_price": "55294",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/knot-platinum-bracelet"
+		}, {
+			"spotlight_id": "71",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201205121306.jpg",
+			"spotlight_model_no": "PDB-D000530790",
+			"spotlight_name": "Royal Twin Platinum Bracelet",
+			"spotlight_price": "80880",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/royal-twin-platinum-bracelet"
+		}, {
+			"spotlight_id": "70",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201205121126.jpg",
+			"spotlight_model_no": "PDB-D000530792",
+			"spotlight_name": "Arrowhead Tribal Platinum Bracelet",
+			"spotlight_price": "56960",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/arrowhead-tribal-platinum-bracelet"
+		}, {
+			"spotlight_id": "69",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201205121011.jpg",
+			"spotlight_model_no": "PDB-D000530796",
+			"spotlight_name": "Hoop Platinum Bracelet",
+			"spotlight_price": "66985",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/hoop-platinum-bracelet"
+		}, {
+			"spotlight_id": "68",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201205120807.jpg",
+			"spotlight_model_no": "PDB-D000553783",
+			"spotlight_name": "Pearl Platinum Bracelet",
+			"spotlight_price": "46240",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/pearl-platinum-bracelet"
+		}, {
+			"spotlight_id": "58",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201106180214.jpg",
+			"spotlight_model_no": "GPN-D000552114",
+			"spotlight_name": "Durga Astra Gold Pendant",
+			"spotlight_price": "12737",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/durga-astra-gold-pendant"
+		}, {
+			"spotlight_id": "34",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201106180048.jpg",
+			"spotlight_model_no": "GPN-D000555286",
+			"spotlight_name": "Surya Sikha Gold Pendant",
+			"spotlight_price": "6369",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/surya-sikha-gold-pendant"
+		}, {
+			"spotlight_id": "64",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105162906.jpg",
+			"spotlight_model_no": "GLR-D000552125",
+			"spotlight_name": "Jay Shree Gold Ring",
+			"spotlight_price": "19105",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/jay-shree-gold-ring"
+		}, {
+			"spotlight_id": "63",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105162803.jpg",
+			"spotlight_model_no": "GLR-D000552140",
+			"spotlight_name": "Spiritual Om Gold Ring",
+			"spotlight_price": "19105",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/spiritual-om-gold-ring"
+		}, {
+			"spotlight_id": "62",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105162711.jpg",
+			"spotlight_model_no": "GPN-D000552104",
+			"spotlight_name": " Ganesha Gold Pendant",
+			"spotlight_price": "12737",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/ganesha-gold-pendant"
+		}, {
+			"spotlight_id": "61",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105162606.jpg",
+			"spotlight_model_no": "GPN-D000552105",
+			"spotlight_name": "Shubh Swastik Gold Pendant",
+			"spotlight_price": "12737",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/shubh-swastik-gold-pendant"
+		}, {
+			"spotlight_id": "60",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105162446.jpg",
+			"spotlight_model_no": "GPN-D000552107",
+			"spotlight_name": "Mor Pankh Gold Pendant",
+			"spotlight_price": "12737",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/mor-pankh-gold-pendant"
+		}, {
+			"spotlight_id": "59",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105162345.jpg",
+			"spotlight_model_no": "GPN-D000552108",
+			"spotlight_name": "Maa Gold Pendant",
+			"spotlight_price": "6369",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/maa-gold-pendant"
+		}, {
+			"spotlight_id": "57",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105162120.jpg",
+			"spotlight_model_no": "GT-D000552100",
+			"spotlight_name": "Tri Shakti Swastika Gold Pendant",
+			"spotlight_price": "25473",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/tri-shakti-swastika-gold-pendant"
+		}, {
+			"spotlight_id": "56",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105161949.jpg",
+			"spotlight_model_no": "GCH-D000552101",
+			"spotlight_name": "Blessed Lotus Gold Bracelet",
+			"spotlight_price": "50945",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/blessed-lotus-gold-bracelet"
+		}, {
+			"spotlight_id": "55",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105161856.jpg",
+			"spotlight_model_no": "GCH-D000552102",
+			"spotlight_name": "Jay Mata Di Gold Bracelet",
+			"spotlight_price": "63681",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/jay-mata-di-gold-bracelet"
+		}, {
+			"spotlight_id": "54",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105161800.jpg",
+			"spotlight_model_no": "GLR-D000552127",
+			"spotlight_name": "Trishul Power Gold Ring",
+			"spotlight_price": "19105",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/trishul-power-gold-ring"
+		}, {
+			"spotlight_id": "53",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105161638.jpg",
+			"spotlight_model_no": "GPN-D000553792",
+			"spotlight_name": "Rudra Sikha Gold Pendant",
+			"spotlight_price": "67502",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/rudra-sikha-gold-pendant"
+		}, {
+			"spotlight_id": "52",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105161530.jpg",
+			"spotlight_model_no": "GPN-D000553794",
+			"spotlight_name": "Shiv Rudra Gold Pendant",
+			"spotlight_price": "48397",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/shiv-rudra-gold-pendant"
+		}, {
+			"spotlight_id": "51",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105161226.jpg",
+			"spotlight_model_no": "GPN-D000553859",
+			"spotlight_name": "OM Shivay Gold Pendant",
+			"spotlight_price": "9553",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/om-shivay-gold-pendant"
+		}, {
+			"spotlight_id": "50",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105161117.jpg",
+			"spotlight_model_no": "GPN-D000553860",
+			"spotlight_name": "Shiv Tilak Gold Pendant",
+			"spotlight_price": "12737",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/shiv-tilak-gold-pendant"
+		}, {
+			"spotlight_id": "49",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105160950.jpg",
+			"spotlight_model_no": "GPN-D000553862",
+			"spotlight_name": "Tri Dhara Gold Pendant",
+			"spotlight_price": "12737",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/tri-dhara-gold-pendant"
+		}, {
+			"spotlight_id": "48",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105160832.jpg",
+			"spotlight_model_no": "GPN-D000553863",
+			"spotlight_name": "Kalka Embrace Kamal Gold Pendant",
+			"spotlight_price": "6369",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/kalka-embrace-kamal-gold-pendant"
+		}, {
+			"spotlight_id": "47",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105160712.jpg",
+			"spotlight_model_no": "GPN-D000553864",
+			"spotlight_name": "Glorious Third Eye Gold Pendant",
+			"spotlight_price": "12737",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/glorious-third-eye-gold-pendant"
+		}, {
+			"spotlight_id": "46",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105160545.jpg",
+			"spotlight_model_no": "GPN-D000553866",
+			"spotlight_name": "Tri-Nayani Gold Pendant",
+			"spotlight_price": "6369",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/tri-nayani-gold-pendant"
+		}, {
+			"spotlight_id": "45",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105160438.jpg",
+			"spotlight_model_no": "GPN-D000553914",
+			"spotlight_name": "Shankh Durga Gold Pendant",
+			"spotlight_price": "33992",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/shankh-durga-gold-pendant"
+		}, {
+			"spotlight_id": "44",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105160105.jpg",
+			"spotlight_model_no": "DCP-D000552485",
+			"spotlight_name": "Surya Kiran Diamond Double Loop Chain Pendant",
+			"spotlight_price": "46935",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/surya-kiran-diamond-double-loop-chain-pendant"
+		}, {
+			"spotlight_id": "43",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105155910.jpg",
+			"spotlight_model_no": "DPN-D000552477",
+			"spotlight_name": "Graceful Lotus Diamond Pendant",
+			"spotlight_price": "66120",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/graceful-lotus-diamond-pendant"
+		}, {
+			"spotlight_id": "42",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105155813.jpg",
+			"spotlight_model_no": "DPN-D000552478",
+			"spotlight_name": "Shiv Shakti Diamond Pendant",
+			"spotlight_price": "30339",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/shiv-shakti-diamond-pendant"
+		}, {
+			"spotlight_id": "41",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105155707.jpg",
+			"spotlight_model_no": "DPN-D000552480",
+			"spotlight_name": "Tir-Jala Diamond Pendant",
+			"spotlight_price": "33257",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/tir-jala-diamond-pendant"
+		}, {
+			"spotlight_id": "40",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105155543.jpg",
+			"spotlight_model_no": "DPN-D000552482",
+			"spotlight_name": "Weapon Of Destroy Diamond Pendant",
+			"spotlight_price": "28697",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/weapon-of-destroy-diamond-pendant"
+		}, {
+			"spotlight_id": "39",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105155342.jpg",
+			"spotlight_model_no": "DPN-D000553296",
+			"spotlight_name": "Heavenly Lotus Diamond Pendant",
+			"spotlight_price": "55328",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/heavenly-lotus-diamond-pendant"
+		}, {
+			"spotlight_id": "38",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105154819.jpg",
+			"spotlight_model_no": "GP-D000555287",
+			"spotlight_name": "Dhanush Ban Gold Earrings",
+			"spotlight_price": "6369",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/dhanush-ban-gold-earrings"
+		}, {
+			"spotlight_id": "37",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105154546.jpg",
+			"spotlight_model_no": "GPN-D000552103",
+			"spotlight_name": "Shree Ram Gold Pendant",
+			"spotlight_price": "12737",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/shree-ram-gold-pendant"
+		}, {
+			"spotlight_id": "36",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105154404.jpg",
+			"spotlight_model_no": "GP-D000553894",
+			"spotlight_name": "Kamal Ful Gold Earrings",
+			"spotlight_price": "33114",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/kamal-ful-gold-earrings"
+		}, {
+			"spotlight_id": "35",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105154252.jpg",
+			"spotlight_model_no": "GPN-D000555283",
+			"spotlight_name": "Damru Gold Pendant",
+			"spotlight_price": "9553",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/damru-gold-pendant"
+		}, {
+			"spotlight_id": "33",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105153755.jpg",
+			"spotlight_model_no": "GP-D000555793",
+			"spotlight_name": "Embrace Lotus Gold Earrings",
+			"spotlight_price": "12737",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/embrace-lotus-gold-earrings"
+		}, {
+			"spotlight_id": "32",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201105153501.jpg",
+			"spotlight_model_no": "GP-D000555794",
+			"spotlight_name": "Tri-Lotus Gold Earrings",
+			"spotlight_price": "19105",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/tri-lotus-gold-earrings"
+		}, {
+			"spotlight_id": "26",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201019114551.jpg",
+			"spotlight_model_no": "DPN-D000546194",
+			"spotlight_name": "Wings Of Jesus Christ Gold Diamond Pendant",
+			"spotlight_price": "22327",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/wings-of-jesus-christ-gold-diamond-pendant"
+		}, {
+			"spotlight_id": "25",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201019114441.jpg",
+			"spotlight_model_no": "GPN-D000546713",
+			"spotlight_name": "The Tri Version Gold Pendant",
+			"spotlight_price": "19379",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/the-tri-version-gold-pendant"
+		}, {
+			"spotlight_id": "24",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201019114246.jpg",
+			"spotlight_model_no": "DPN-D000552478",
+			"spotlight_name": "Shiv Shakti Diamond Pendant",
+			"spotlight_price": "34807",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/shiv-shakti-diamond-pendant"
+		}, {
+			"spotlight_id": "23",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201019114124.jpg",
+			"spotlight_model_no": "GCH-D000552101",
+			"spotlight_name": "Blessed Lotus Gold Bracelet",
+			"spotlight_price": "51675",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/blessed-lotus-gold-bracelet"
+		}, {
+			"spotlight_id": "22",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201019113948.jpg",
+			"spotlight_model_no": "GP-D000553886",
+			"spotlight_name": "Rudraksh Pritvi Gold Long Earrings",
+			"spotlight_price": "41341",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/rudraksh-pritvi-gold-long-earrings"
+		}, {
+			"spotlight_id": "21",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201019113459.jpg",
+			"spotlight_model_no": "GPN-D000555286",
+			"spotlight_name": "Surya Sikha Gold Pendant",
+			"spotlight_price": "6460",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/surya-sikha-gold-pendant"
+		}, {
+			"spotlight_id": "20",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201019113253.jpg",
+			"spotlight_model_no": "GP-D000555794",
+			"spotlight_name": "Tri-Lotus Gold Earrings",
+			"spotlight_price": "19379",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/tri-lotus-gold-earrings"
+		}]
+	},
+	"Horoscope_Testimonial": {
+		"data": [{
+			"horoscopeTestimonial_id": "8",
+			"horoscopeTestimonial_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/testimonials/20200830142536.jpg",
+			"horoscopeTestimonial_name": "Mr. Uttam Pal",
+			"horoscopeTestimonial_description": "I have purchased loose diamond (Forever & Divine) & Red Coral for me and my mother from Senco Gold & Diamonds (Moulali Store). I'm highly satisfied with the quality of my purchased product. It's a reputed brand which is absolutely trustworthy. The diamonds were so good, that they had a great effect on me, and in a way I can say that they have changed my life. Thank you Senco Gold & Diamonds.",
+			"horoscopeTestimonial_place": "Kolkata"
+		}, {
+			"horoscopeTestimonial_id": "7",
+			"horoscopeTestimonial_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/testimonials/20200830142500.jpg",
+			"horoscopeTestimonial_name": "Mrs. Oyendrila Deb",
+			"horoscopeTestimonial_description": "Senco Gold & Diamonds helped us choose the right gems stones with ease. Not only that they have considerable knowledge about the gem stones, they are very friendly while dealing with the customers. And they have a wonderful collection of gem stones.Trust me, if you visit them once, you would want to visit them again and again. Thanks to Senco, all my problems were solved.",
+			"horoscopeTestimonial_place": "Kolkata"
+		}, {
+			"horoscopeTestimonial_id": "5",
+			"horoscopeTestimonial_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/testimonials/20200806183056.jpg",
+			"horoscopeTestimonial_name": "Sunil Kohli",
+			"horoscopeTestimonial_description": "MySenco Astrologer gave some amazing insights into my personality traits and i look forward to following their guidelines to better my life.",
+			"horoscopeTestimonial_place": "Navi Mumbai"
+		}, {
+			"horoscopeTestimonial_id": "6",
+			"horoscopeTestimonial_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/testimonials/20200806183046.jpg",
+			"horoscopeTestimonial_name": "Arya Patnaik",
+			"horoscopeTestimonial_description": "Very nice and accurate predictions, also very good suggestions regarding the gemstones as well. ",
+			"horoscopeTestimonial_place": "Bhubaneshwar"
+		}]
+	},
+	"Event": {
+		"data": [{
+			"offer_id": "19",
+			"offer_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/events/Event.jpg",
+			"offer_name": "Music gives a soul to the universe, wings to the mind, flight to the imagination and life to everything.",
+			"offer_url": ""
+		}, {
+			"offer_id": "29",
+			"offer_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/events/IMG-20200126-WA0037.jpg",
+			"offer_name": "We are proud to promote Art , proud to promote a initiative to make India one.",
+			"offer_url": ""
+		}, {
+			"offer_id": "30",
+			"offer_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/events/Porospathor.jpg",
+			"offer_name": "Senco Gold & Diamonds present Parashpathar.",
+			"offer_url": ""
+		}, {
+			"offer_id": "34",
+			"offer_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/events/WhatsApp Image 2020-06-18 at 23.42.54.jpeg",
+			"offer_name": "Click here to know more.",
+			"offer_url": "https://www.facebook.com/SencoGoldAndDiamonds"
+		}, {
+			"offer_id": "35",
+			"offer_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/events/WhatsApp Image 2020-06-18 at 23.34.16.jpeg",
+			"offer_name": "Click here to know more.",
+			"offer_url": "https://www.facebook.com/SencoGoldAndDiamonds"
+		}, {
+			"offer_id": "36",
+			"offer_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/events/astro job.jpg",
+			"offer_name": "Worried about your career....Click here to know more.",
+			"offer_url": "https://www.facebook.com/sencoastro/"
+		}]
+	},
+	"Video": {
+		"data": [{
+			"video_id": "3",
+			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20201016150852.jpg",
+			"video_name": "Vidya Balan - Bengali - Click To Play",
+			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/SENCO+KOLKATA+30SEC-480p.mp4"
+		}, {
+			"video_id": "4",
+			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806182730.jpg",
+			"video_name": "Sourav Ganguly - Aham Collection - Click To Play",
+			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/Senco+Aham+60sec-480p.mp4"
+		}, {
+			"video_id": "5",
+			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806203415.jpg",
+			"video_name": "Senco - Denim Collection - Click to Play",
+			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/SENCO_EVERLITE_DENIM_30_SEC_1280.mp4"
+		}, {
+			"video_id": "6",
+			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806182706.jpg",
+			"video_name": "Senco - Ameerah Collection - Click To Play",
+			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/AMEERAH-480p.mp4"
+		}, {
+			"video_id": "11",
+			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806193609.jpg",
+			"video_name": "Vidya Balan - Hindi - Click To Play",
+			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/SENCO+MUMBAI+30SEC+HD-480p.mp4"
+		}, {
+			"video_id": "12",
+			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806193657.jpg",
+			"video_name": "Vidya Balan - Kannada - Click To Play",
+			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/SENCO+BANGALORE+25SEC-480p.mp4"
+		}, {
+			"video_id": "13",
+			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806194102.jpg",
+			"video_name": "Vidya Balan - Delhi - Click To Play",
+			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/SENCO+DELHI+30SEC-480p.mp4"
+		}, {
+			"video_id": "14",
+			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806200918.jpg",
+			"video_name": "Vivaha Collection - Karnataka - Click To Play",
+			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/KANNAD_BRIDE_30_SEC_1280.mp4"
+		}, {
+			"video_id": "15",
+			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806201018.jpg",
+			"video_name": "Vivaha Collection - West Bengal - Click To Play",
+			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/BENGALI_BRIDE_30_SEC_1280.mp4"
+		}, {
+			"video_id": "16",
+			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806201220.jpg",
+			"video_name": "Vivaha Collection - North India - Click To Play",
+			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/BIHARI_BRIDE_30_SEC_1280.mp4"
+		}, {
+			"video_id": "17",
+			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806201430.jpg",
+			"video_name": "Vivaha Collection - Nawabi - Click To Play",
+			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/MUSLIM_BRIDE_30_SEC_1280.mp4"
+		}, {
+			"video_id": "18",
+			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806201549.jpg",
+			"video_name": "Vivaha Collection - Andhra - Click To Play",
+			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/TELEGU_BRIDE_30_SEC_1280.mp4"
+		}, {
+			"video_id": "19",
+			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806201631.jpg",
+			"video_name": "Vivaha Collection - Punjabi - Click To Play",
+			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/PUNJABI_BRIDE_30_SEC_1280.mp4"
+		}, {
+			"video_id": "21",
+			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20201106134242.jpg",
+			"video_name": "Senco - Dhanteras - Click To Play",
+			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/WhatsApp_Video_Dhanteras.mp4"
+		}]
+	},
+	"Offer": {
+		"data": []
+	},
+	"Arrival": {
+		"data": []
+	},
+	"Gold_Price": {
+		"data": [{
+			"city_id": "53",
+			"city_name": "Guwahati",
+			"gold_price": "4,931",
+			"validity_date": "Today's selling price.",
+			"image_url": "https://mysencoapp.sencogoldanddiamonds.com/Upload/gold_price_icon.jpg",
+			"gold_price_desc": "1g of 22K (91.6)",
+			"mobile_no": "9452249428"
+		}]
+	},
+	"Star_Sign": {
+		"data": [{
+			"horoscope_id": "19",
+			"horoscope_logo": "https://s3.ap-south-1.amazonaws.com/sencofiles/starsign/leo.jpg",
+			"horoscope_name": "Leo",
+			"horoscope_description": "MORNING (6 am - 12 noon): Your misunderstandings will get sorted with your loved ones. AFTERNOON (12 noon - 6 pm): Your fincial status is quite good. You may repayment your credits. EVENING (6 pm - midnight):?You may get a short trip for work.",
+			"current_reward_points": ""
+		}]
+	}
 }
