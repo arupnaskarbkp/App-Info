@@ -399,6 +399,41 @@
 	},
 	"Spotlight": {
 		"data": [{
+			"spotlight_id": "118",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210109114000.jpg",
+			"spotlight_model_no": "DPN-D000555886",
+			"spotlight_name": "Admirable Daisy Diamond Mangalsutra",
+			"spotlight_price": "36776",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/admirable-daisy-diamond-mangalsutra"
+		}, {
+			"spotlight_id": "117",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210109113904.jpg",
+			"spotlight_model_no": "DPN-D000555884",
+			"spotlight_name": "Magnificent Bloom Diamond Mangalsutra",
+			"spotlight_price": "32329",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/magnificent-bloom-diamond-mangalsutra"
+		}, {
+			"spotlight_id": "116",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210109113250.jpg",
+			"spotlight_model_no": "DPN-D000554151",
+			"spotlight_name": "Love Feather Diamond Mangalsutra",
+			"spotlight_price": "17209",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/love-feather-diamond-mangalsutra"
+		}, {
+			"spotlight_id": "115",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210109113147.jpg",
+			"spotlight_model_no": "DPN-D000547445",
+			"spotlight_name": "Charming Beloved Diamond Mangalsutra",
+			"spotlight_price": "47998",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/charming-beloved-diamond-mangalsutra"
+		}, {
+			"spotlight_id": "114",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210109112936.jpg",
+			"spotlight_model_no": "DPN-D000530374",
+			"spotlight_name": "Passionate Flowret Diamond Mangalsutra",
+			"spotlight_price": "26203",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/passionate-flowret-diamond-mangalsutra"
+		}, {
 			"spotlight_id": "113",
 			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210107190340.jpg",
 			"spotlight_model_no": "GT-D000565104",
@@ -1136,16 +1171,70 @@
 		}]
 	},
 	"Offer": {
-		"data": []
+		"data": [{
+			"offer_id": "1256",
+			"offer_title": "Love 2021",
+			"offer_description": "Visit your nearest Senco Gold and Diamonds to avail exciting offers from Love 2021",
+			"image_url": "https://s3.ap-south-1.amazonaws.com/sencofiles/offers/20210115153949.jpg",
+			"redirect_shop_web_flag": "0",
+			"redirect_address": "272"
+		}, {
+			"offer_id": "1257",
+			"offer_title": "Love 2021",
+			"offer_description": "Visit your nearest Senco Gold and Diamonds to avail exciting offers from Love 2021",
+			"image_url": "https://s3.ap-south-1.amazonaws.com/sencofiles/offers/20210115180822.jpg",
+			"redirect_shop_web_flag": "0",
+			"redirect_address": "272"
+		}]
 	},
 	"Arrival": {
-		"data": []
+		"data": [{
+			"offer_id": "1250",
+			"offer_title": "New Arrival",
+			"offer_description": "New Arrival",
+			"image_url": "https://s3.ap-south-1.amazonaws.com/sencofiles/offers/20210112125406.jpg",
+			"redirect_shop_web_flag": "1",
+			"redirect_address": "https://sencogoldanddiamonds.com/",
+			"is_new_arrival": "True"
+		}, {
+			"offer_id": "1251",
+			"offer_title": "New Arrival",
+			"offer_description": "New Arrival",
+			"image_url": "https://s3.ap-south-1.amazonaws.com/sencofiles/offers/20210112125446.jpg",
+			"redirect_shop_web_flag": "1",
+			"redirect_address": "https://sencogoldanddiamonds.com/",
+			"is_new_arrival": "True"
+		}, {
+			"offer_id": "1252",
+			"offer_title": "New Arrival",
+			"offer_description": "New Arrival",
+			"image_url": "https://s3.ap-south-1.amazonaws.com/sencofiles/offers/20210112125528.jpg",
+			"redirect_shop_web_flag": "1",
+			"redirect_address": "https://sencogoldanddiamonds.com/",
+			"is_new_arrival": "True"
+		}, {
+			"offer_id": "1253",
+			"offer_title": "New Arrival",
+			"offer_description": "New Arrival",
+			"image_url": "https://s3.ap-south-1.amazonaws.com/sencofiles/offers/20210112125610.jpg",
+			"redirect_shop_web_flag": "1",
+			"redirect_address": "https://sencogoldanddiamonds.com/",
+			"is_new_arrival": "True"
+		}, {
+			"offer_id": "1254",
+			"offer_title": "New Arrival",
+			"offer_description": "New Arrival",
+			"image_url": "https://s3.ap-south-1.amazonaws.com/sencofiles/offers/20210112125649.jpg",
+			"redirect_shop_web_flag": "1",
+			"redirect_address": "https://sencogoldanddiamonds.com/",
+			"is_new_arrival": "True"
+		}]
 	},
 	"Gold_Price": {
 		"data": [{
-			"city_id": "53",
-			"city_name": "Guwahati",
-			"gold_price": "4,931",
+			"city_id": "30",
+			"city_name": "Kolkata",
+			"gold_price": "4,876",
 			"validity_date": "Today's selling price.",
 			"image_url": "https://mysencoapp.sencogoldanddiamonds.com/Upload/gold_price_icon.jpg",
 			"gold_price_desc": "1g of 22K (91.6)",
@@ -1157,7 +1246,7 @@
 			"horoscope_id": "19",
 			"horoscope_logo": "https://s3.ap-south-1.amazonaws.com/sencofiles/starsign/leo.jpg",
 			"horoscope_name": "Leo",
-			"horoscope_description": "MORNING (6 am - 12 noon): Your misunderstandings will get sorted with your loved ones. AFTERNOON (12 noon - 6 pm): Your fincial status is quite good. You may repayment your credits. EVENING (6 pm - midnight):?You may get a short trip for work.",
+			"horoscope_description": "MORNING (6 am - 12 noon): You may help someone by money today. AFTERNOON (12 noon - 6 pm): You may get hurt in leg. EVENING (6 pm - midnight):??With a support of your partner you may start a new business.",
 			"current_reward_points": ""
 		}]
 	}
