@@ -399,6 +399,181 @@
 	},
 	"Spotlight": {
 		"data": [{
+			"spotlight_id": "143",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210405162952.jpg",
+			"spotlight_model_no": "PDB-D000530790",
+			"spotlight_name": "Royal Twin Platinum Bracelet",
+			"spotlight_price": "81530",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/royal-twin-platinum-bracelet"
+		}, {
+			"spotlight_id": "142",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210405162841.jpg",
+			"spotlight_model_no": "PDB-D000530778",
+			"spotlight_name": "Circle of Life Platinum Bracelet",
+			"spotlight_price": "65429",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/circle-of-life-platinum-bracelet"
+		}, {
+			"spotlight_id": "141",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210405162556.jpg",
+			"spotlight_model_no": "DNB-D000569644",
+			"spotlight_name": "Twin Leaf Diamond Bracelet",
+			"spotlight_price": "47233",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/twin-leaf-diamond-bracelet"
+		}, {
+			"spotlight_id": "140",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210405162432.jpg",
+			"spotlight_model_no": "DBR-D000570411",
+			"spotlight_name": "Dew Drop Diamond Bracelet",
+			"spotlight_price": "60603",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/dew-drop-diamond-bracelet"
+		}, {
+			"spotlight_id": "139",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210405162236.jpg",
+			"spotlight_model_no": "DBR-D000568866",
+			"spotlight_name": "Bloom Diamond Bracelet",
+			"spotlight_price": "52094",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/bloom-diamond-bracelet"
+		}, {
+			"spotlight_id": "138",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210405155135.jpg",
+			"spotlight_model_no": "GSB-D000572299",
+			"spotlight_name": "Double Channel Gold Sankha Bangles",
+			"spotlight_price": "64193",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/double-channel-gold-sankha-bangles"
+		}, {
+			"spotlight_id": "137",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210405155025.jpg",
+			"spotlight_model_no": "GSB-D000572291",
+			"spotlight_name": "Dancing Peacock Gold Sankha Bangle",
+			"spotlight_price": "27936",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/dancing-peacock-gold-sankha-bangle"
+		}, {
+			"spotlight_id": "136",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210405154917.jpg",
+			"spotlight_model_no": "GPB-D000572323",
+			"spotlight_name": "Kankan Gold Pola Bangle",
+			"spotlight_price": "45767",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/kankan-gold-pola-bangle"
+		}, {
+			"spotlight_id": "135",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210405154555.jpg",
+			"spotlight_model_no": "GPB-D000572285",
+			"spotlight_name": "Matsya Mukh Gold Pola Bangle",
+			"spotlight_price": "47551",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/matsya-mukh-gold-pola-bangle"
+		}, {
+			"spotlight_id": "134",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210405154352.jpg",
+			"spotlight_model_no": "GMT-D000572277",
+			"spotlight_name": "Sunflower Chain Link Gold Bracelet",
+			"spotlight_price": "93318",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/sunflower-chain-link-gold-bracelet"
+		}, {
+			"spotlight_id": "133",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210405153812.jpg",
+			"spotlight_model_no": "GCH-D000572307",
+			"spotlight_name": "Surya Day Gold Bangle",
+			"spotlight_price": "183069",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/surya-day-gold-bangle"
+		}, {
+			"spotlight_id": "132",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210405153706.jpg",
+			"spotlight_model_no": "GCH-D000572306",
+			"spotlight_name": "Gardenia Gold Glass Bangle",
+			"spotlight_price": "213978",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/gardenia-gold-glass-bangle"
+		}, {
+			"spotlight_id": "131",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210405153243.jpg",
+			"spotlight_model_no": "GBL-D000572326",
+			"spotlight_name": "Lucky Kalasha Gold Bala Bangles",
+			"spotlight_price": "166427",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/lucky-kalasha-gold-bala-bangles"
+		}, {
+			"spotlight_id": "130",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210405153139.jpg",
+			"spotlight_model_no": "GBL-D000572325",
+			"spotlight_name": "Love Birds Gold Bala Bangles",
+			"spotlight_price": "237753",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/love-birds-gold-bala-bangles"
+		}, {
+			"spotlight_id": "129",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210405152924.jpg",
+			"spotlight_model_no": "GBL-D000572303",
+			"spotlight_name": "Floral Curve Gold Bala Bangles",
+			"spotlight_price": "215761",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/floral-curve-gold-bala-bangles"
+		}, {
+			"spotlight_id": "128",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210405152726.jpg",
+			"spotlight_model_no": "GBL-D000572293",
+			"spotlight_name": "Conch Cut Gold Bala Bangles",
+			"spotlight_price": "117687",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/conch-cut-gold-bala-bangles"
+		}, {
+			"spotlight_id": "127",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210405152614.jpg",
+			"spotlight_model_no": "GBL-D000572273",
+			"spotlight_name": "Double Mukh Gold Bala Bangles",
+			"spotlight_price": "74892",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/double-mukh-gold-bala-bangles"
+		}, {
+			"spotlight_id": "126",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210309180323.jpg",
+			"spotlight_model_no": "GP-D000570336",
+			"spotlight_name": "Colorful Statuesque Gold Chandelier Earrings",
+			"spotlight_price": "77379",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/colorful-statusque-gold-chandelier-earrings"
+		}, {
+			"spotlight_id": "125",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210309180225.jpg",
+			"spotlight_model_no": "GN-D000575564",
+			"spotlight_name": "A Royal Elegance Gold Necklace",
+			"spotlight_price": "167609",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/a-royal-elegance-gold-necklace"
+		}, {
+			"spotlight_id": "124",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210309175637.jpg",
+			"spotlight_model_no": "GP-D000570339",
+			"spotlight_name": "Enchanting Pearl Gold Chandelier Earrings",
+			"spotlight_price": "70069",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/enchanting-pearl-gold-chandelier-earrings"
+		}, {
+			"spotlight_id": "123",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210309175511.jpg",
+			"spotlight_model_no": "GP-D000570335",
+			"spotlight_name": "The Aura Gold Chandbali Earrings",
+			"spotlight_price": "121704",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/the-aura-gold-chandbali-earrings"
+		}, {
+			"spotlight_id": "122",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210309175219.jpg",
+			"spotlight_model_no": "GP-D000569772",
+			"spotlight_name": "An Illusion Craft Pearl Gold Danglers",
+			"spotlight_price": "90496",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/an-illusion-craft-pearl-gold-danglers"
+		}, {
+			"spotlight_id": "121",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210309175054.jpg",
+			"spotlight_model_no": "GPGN-D000566050",
+			"spotlight_name": "An Enhanced Pearl Gold Drop Earrings",
+			"spotlight_price": "64393",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/an-enhanced-pearl-gold-drop-earrings"
+		}, {
+			"spotlight_id": "120",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210309174955.jpg",
+			"spotlight_model_no": "GN-D000570234",
+			"spotlight_name": "A Chandbali Glint Gold Necklace",
+			"spotlight_price": "137555",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/a-chandbali-glint-gold-necklace"
+		}, {
+			"spotlight_id": "119",
+			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210309174838.jpg",
+			"spotlight_model_no": "GN-D000566030",
+			"spotlight_name": "A Pearl Embellish Gold Chocker",
+			"spotlight_price": "260272",
+			"spotlight_url": "https://sencogoldanddiamonds.com/products/a-pearl-embellish-gold-chocker"
+		}, {
 			"spotlight_id": "118",
 			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20210109114000.jpg",
 			"spotlight_model_no": "DPN-D000555886",
@@ -751,7 +926,7 @@
 		}, {
 			"spotlight_id": "68",
 			"spotlight_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/spotlight/20201205120807.jpg",
-			"spotlight_model_no": "PDB-D000553783 ",
+			"spotlight_model_no": "PDB-D000553783	",
 			"spotlight_name": "Pearl Platinum Bracelet",
 			"spotlight_price": "46240",
 			"spotlight_url": "https://sencogoldanddiamonds.com/products/pearl-platinum-bracelet"
@@ -1099,154 +1274,167 @@
 	},
 	"Video": {
 		"data": [{
-			"video_id": "3",
-			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20201016150852.jpg",
-			"video_name": "Vidya Balan - Bengali - Click To Play",
-			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/SENCO+KOLKATA+30SEC-480p.mp4"
+			"video_id": "22",
+			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20210306195331.jpg",
+			"video_name": "Senco - Bangle's Utsav - Click To Play",
+			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/SENCO_BANGAL_UTSAV_1280.mp4"
 		}, {
-			"video_id": "4",
-			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806182730.jpg",
-			"video_name": "Sourav Ganguly - Aham Collection - Click To Play",
-			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/Senco+Aham+60sec-480p.mp4"
-		}, {
-			"video_id": "5",
-			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806203415.jpg",
-			"video_name": "Senco - Denim Collection - Click to Play",
-			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/SENCO_EVERLITE_DENIM_30_SEC_1280.mp4"
-		}, {
-			"video_id": "6",
-			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806182706.jpg",
-			"video_name": "Senco - Ameerah Collection - Click To Play",
-			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/AMEERAH-480p.mp4"
-		}, {
-			"video_id": "11",
-			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806193609.jpg",
-			"video_name": "Vidya Balan - Hindi - Click To Play",
-			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/SENCO+MUMBAI+30SEC+HD-480p.mp4"
-		}, {
-			"video_id": "12",
-			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806193657.jpg",
-			"video_name": "Vidya Balan - Kannada - Click To Play",
-			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/SENCO+BANGALORE+25SEC-480p.mp4"
-		}, {
-			"video_id": "13",
-			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806194102.jpg",
-			"video_name": "Vidya Balan - Delhi - Click To Play",
-			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/SENCO+DELHI+30SEC-480p.mp4"
-		}, {
-			"video_id": "14",
-			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806200918.jpg",
-			"video_name": "Vivaha Collection - Karnataka - Click To Play",
-			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/KANNAD_BRIDE_30_SEC_1280.mp4"
-		}, {
-			"video_id": "15",
-			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806201018.jpg",
-			"video_name": "Vivaha Collection - West Bengal - Click To Play",
-			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/BENGALI_BRIDE_30_SEC_1280.mp4"
-		}, {
-			"video_id": "16",
-			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806201220.jpg",
-			"video_name": "Vivaha Collection - North India - Click To Play",
-			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/BIHARI_BRIDE_30_SEC_1280.mp4"
-		}, {
-			"video_id": "17",
-			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806201430.jpg",
-			"video_name": "Vivaha Collection - Nawabi - Click To Play",
-			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/MUSLIM_BRIDE_30_SEC_1280.mp4"
-		}, {
-			"video_id": "18",
-			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806201549.jpg",
-			"video_name": "Vivaha Collection - Andhra - Click To Play",
-			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/TELEGU_BRIDE_30_SEC_1280.mp4"
+			"video_id": "21",
+			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20201106134242.jpg",
+			"video_name": "Senco - Dhanteras - Click To Play",
+			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/WhatsApp_Video_Dhanteras.mp4"
 		}, {
 			"video_id": "19",
 			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806201631.jpg",
 			"video_name": "Vivaha Collection - Punjabi - Click To Play",
 			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/PUNJABI_BRIDE_30_SEC_1280.mp4"
 		}, {
-			"video_id": "21",
-			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20201106134242.jpg",
-			"video_name": "Senco - Dhanteras - Click To Play",
-			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/WhatsApp_Video_Dhanteras.mp4"
+			"video_id": "18",
+			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806201549.jpg",
+			"video_name": "Vivaha Collection - Andhra - Click To Play",
+			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/TELEGU_BRIDE_30_SEC_1280.mp4"
+		}, {
+			"video_id": "17",
+			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806201430.jpg",
+			"video_name": "Vivaha Collection - Nawabi - Click To Play",
+			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/MUSLIM_BRIDE_30_SEC_1280.mp4"
+		}, {
+			"video_id": "16",
+			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806201220.jpg",
+			"video_name": "Vivaha Collection - North India - Click To Play",
+			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/BIHARI_BRIDE_30_SEC_1280.mp4"
+		}, {
+			"video_id": "15",
+			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806201018.jpg",
+			"video_name": "Vivaha Collection - West Bengal - Click To Play",
+			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/BENGALI_BRIDE_30_SEC_1280.mp4"
+		}, {
+			"video_id": "14",
+			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806200918.jpg",
+			"video_name": "Vivaha Collection - Karnataka - Click To Play",
+			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/KANNAD_BRIDE_30_SEC_1280.mp4"
+		}, {
+			"video_id": "13",
+			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806194102.jpg",
+			"video_name": "Vidya Balan - Delhi - Click To Play",
+			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/SENCO+DELHI+30SEC-480p.mp4"
+		}, {
+			"video_id": "12",
+			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806193657.jpg",
+			"video_name": "Vidya Balan - Kannada - Click To Play",
+			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/SENCO+BANGALORE+25SEC-480p.mp4"
+		}, {
+			"video_id": "11",
+			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806193609.jpg",
+			"video_name": "Vidya Balan - Hindi - Click To Play",
+			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/SENCO+MUMBAI+30SEC+HD-480p.mp4"
+		}, {
+			"video_id": "6",
+			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806182706.jpg",
+			"video_name": "Senco - Ameerah Collection - Click To Play",
+			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/AMEERAH-480p.mp4"
+		}, {
+			"video_id": "5",
+			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806203415.jpg",
+			"video_name": "Senco - Denim Collection - Click to Play",
+			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/SENCO_EVERLITE_DENIM_30_SEC_1280.mp4"
+		}, {
+			"video_id": "4",
+			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20200806182730.jpg",
+			"video_name": "Sourav Ganguly - Aham Collection - Click To Play",
+			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/Senco+Aham+60sec-480p.mp4"
+		}, {
+			"video_id": "3",
+			"video_banner": "https://s3.ap-south-1.amazonaws.com/sencofiles/videos/20201016150852.jpg",
+			"video_name": "Vidya Balan - Bengali - Click To Play",
+			"video_url": "https://sencofiles.s3.ap-south-1.amazonaws.com/videos/SENCO+KOLKATA+30SEC-480p.mp4"
 		}]
 	},
 	"Offer": {
 		"data": [{
-			"offer_id": "1256",
-			"offer_title": "Love 2021",
-			"offer_description": "Visit your nearest Senco Gold and Diamonds to avail exciting offers from Love 2021",
-			"image_url": "https://s3.ap-south-1.amazonaws.com/sencofiles/offers/20210115153949.jpg",
-			"redirect_shop_web_flag": "0",
-			"redirect_address": "272"
+			"offer_id": "1270",
+			"offer_title": "Bangle Utsav",
+			"offer_description": "Bangle Utsav",
+			"image_url": "https://s3.ap-south-1.amazonaws.com/sencofiles/offers/20210315192743.jpg",
+			"redirect_shop_web_flag": "1",
+			"redirect_address": "https://sencogoldanddiamonds.com/book-gold-online"
 		}, {
-			"offer_id": "1257",
-			"offer_title": "Love 2021",
-			"offer_description": "Visit your nearest Senco Gold and Diamonds to avail exciting offers from Love 2021",
-			"image_url": "https://s3.ap-south-1.amazonaws.com/sencofiles/offers/20210115180822.jpg",
-			"redirect_shop_web_flag": "0",
-			"redirect_address": "272"
+			"offer_id": "1272",
+			"offer_title": "Bangle Utsav",
+			"offer_description": "Bangle Utsav",
+			"image_url": "https://s3.ap-south-1.amazonaws.com/sencofiles/offers/20210403153542.jpg",
+			"redirect_shop_web_flag": "1",
+			"redirect_address": "https://sencogoldanddiamonds.com/"
 		}]
 	},
 	"Arrival": {
 		"data": [{
-			"offer_id": "1250",
-			"offer_title": "New Arrival",
-			"offer_description": "New Arrival",
-			"image_url": "https://s3.ap-south-1.amazonaws.com/sencofiles/offers/20210112125406.jpg",
+			"offer_id": "1283",
+			"offer_title": "Bangle Utsav",
+			"offer_description": "Bangle Utsav",
+			"image_url": "https://s3.ap-south-1.amazonaws.com/sencofiles/offers/20210405171252.jpg",
 			"redirect_shop_web_flag": "1",
-			"redirect_address": "https://sencogoldanddiamonds.com/",
+			"redirect_address": "https://sencogoldanddiamonds.com/products/category/bangle-utsav-collection-2k21",
 			"is_new_arrival": "True"
 		}, {
-			"offer_id": "1251",
-			"offer_title": "New Arrival",
-			"offer_description": "New Arrival",
-			"image_url": "https://s3.ap-south-1.amazonaws.com/sencofiles/offers/20210112125446.jpg",
+			"offer_id": "1282",
+			"offer_title": "Bangle Utsav",
+			"offer_description": "Bangle Utsav",
+			"image_url": "https://s3.ap-south-1.amazonaws.com/sencofiles/offers/20210405171223.jpg",
 			"redirect_shop_web_flag": "1",
-			"redirect_address": "https://sencogoldanddiamonds.com/",
+			"redirect_address": "https://sencogoldanddiamonds.com/products/category/valentines-special-2k21",
 			"is_new_arrival": "True"
 		}, {
-			"offer_id": "1252",
-			"offer_title": "New Arrival",
-			"offer_description": "New Arrival",
-			"image_url": "https://s3.ap-south-1.amazonaws.com/sencofiles/offers/20210112125528.jpg",
+			"offer_id": "1281",
+			"offer_title": "Bangle Utsav",
+			"offer_description": "Bangle Utsav",
+			"image_url": "https://s3.ap-south-1.amazonaws.com/sencofiles/offers/20210405171143.jpg",
 			"redirect_shop_web_flag": "1",
-			"redirect_address": "https://sencogoldanddiamonds.com/",
+			"redirect_address": "https://sencogoldanddiamonds.com/products/category/bangle-utsav-collection-2k21",
 			"is_new_arrival": "True"
 		}, {
-			"offer_id": "1253",
-			"offer_title": "New Arrival",
-			"offer_description": "New Arrival",
-			"image_url": "https://s3.ap-south-1.amazonaws.com/sencofiles/offers/20210112125610.jpg",
+			"offer_id": "1275",
+			"offer_title": "Bangle Utsav",
+			"offer_description": "Bangle Utsav",
+			"image_url": "https://s3.ap-south-1.amazonaws.com/sencofiles/offers/20210405170508.jpg",
 			"redirect_shop_web_flag": "1",
-			"redirect_address": "https://sencogoldanddiamonds.com/",
+			"redirect_address": "https://sencogoldanddiamonds.com/products/category/bangle-utsav-collection-2k21",
 			"is_new_arrival": "True"
 		}, {
-			"offer_id": "1254",
-			"offer_title": "New Arrival",
-			"offer_description": "New Arrival",
-			"image_url": "https://s3.ap-south-1.amazonaws.com/sencofiles/offers/20210112125649.jpg",
+			"offer_id": "1274",
+			"offer_title": "Bangle Utsav",
+			"offer_description": "Bangle Utsav",
+			"image_url": "https://s3.ap-south-1.amazonaws.com/sencofiles/offers/20210405170429.jpg",
 			"redirect_shop_web_flag": "1",
-			"redirect_address": "https://sencogoldanddiamonds.com/",
+			"redirect_address": "https://sencogoldanddiamonds.com/products/category/bangle-utsav-collection-2k21",
+			"is_new_arrival": "True"
+		}, {
+			"offer_id": "1273",
+			"offer_title": "Bangle Utsav",
+			"offer_description": "Bangle Utsav",
+			"image_url": "https://s3.ap-south-1.amazonaws.com/sencofiles/offers/20210405170352.jpg",
+			"redirect_shop_web_flag": "1",
+			"redirect_address": "https://sencogoldanddiamonds.com/products/category/bangle-utsav-collection-2k21",
 			"is_new_arrival": "True"
 		}]
 	},
 	"Gold_Price": {
 		"data": [{
-			"city_id": "30",
-			"city_name": "Kolkata",
-			"gold_price": "4,876",
+			"city_id": "53",
+			"city_name": "Guwahati",
+			"gold_price": "4,578",
 			"validity_date": "Today's selling price.",
 			"image_url": "https://mysencoapp.sencogoldanddiamonds.com/Upload/gold_price_icon.jpg",
 			"gold_price_desc": "1g of 22K (91.6)",
-			"mobile_no": "9452249428"
+			"mobile_no": "8961788292"
 		}]
 	},
 	"Star_Sign": {
 		"data": [{
-			"horoscope_id": "19",
-			"horoscope_logo": "https://s3.ap-south-1.amazonaws.com/sencofiles/starsign/leo.jpg",
-			"horoscope_name": "Leo",
-			"horoscope_description": "MORNING (6 am - 12 noon): You may help someone by money today. AFTERNOON (12 noon - 6 pm): You may get hurt in leg. EVENING (6 pm - midnight):??With a support of your partner you may start a new business.",
+			"horoscope_id": "22",
+			"horoscope_logo": "https://s3.ap-south-1.amazonaws.com/sencofiles/starsign/scorpio.jpg",
+			"horoscope_name": "Scorpio",
+			"horoscope_description": "MORNING (6 am - 12 noon): Do not go for any work listening to others do whatever you like. AFTERNOON (12 noon - 6 pm): You may have to give pressure to get back you lend money. EVENING (6 pm - midnight): You may think to purchase a new car.",
 			"current_reward_points": ""
 		}]
 	}
