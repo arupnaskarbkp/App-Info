@@ -4,11 +4,11 @@
       "title": "Programming Fundamentals",
       "topics": [
         { "name": "C Programming", "url": "/arupnaskarbkp/App-Info/refs/heads/gh-pages/Bca_Quiz/Programming_Fundamentals/c_programming.json" },
-        { "name": "C++ Programming", "url": "" },
-        { "name": "Java Programming", "url": "" },
-        { "name": "Python Programming", "url": "" },
-        { "name": "Programming Concepts", "url": "" },
-        { "name": "Flowcharts and Algorithms", "url": "" }
+        { "name": "C++ Programming", "url": "/arupnaskarbkp/App-Info/refs/heads/gh-pages/Bca_Quiz/Programming_Fundamentals/cpp_programming.json" },
+        { "name": "Java Programming", "url": "/arupnaskarbkp/App-Info/refs/heads/gh-pages/Bca_Quiz/Programming_Fundamentals/java_programming.json" },
+        { "name": "Python Programming", "url": "/arupnaskarbkp/App-Info/refs/heads/gh-pages/Bca_Quiz/Programming_Fundamentals/python_programming.json" },
+        { "name": "Programming Concepts", "url": "/arupnaskarbkp/App-Info/refs/heads/gh-pages/Bca_Quiz/Programming_Fundamentals/programming_concepts.json" },
+        { "name": "Flowcharts and Algorithms", "url": "/arupnaskarbkp/App-Info/refs/heads/gh-pages/Bca_Quiz/Programming_Fundamentals/flowcharts_algorithms.json" }
       ]
     },
     {
