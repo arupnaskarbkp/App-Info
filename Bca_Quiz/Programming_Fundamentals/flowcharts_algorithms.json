@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "questionText": "What shape represents a decision in a flowchart?",
+    "options": ["Rectangle", "Diamond", "Oval", "Circle"],
+    "correctAnswerIndex": 1,
+    "explanation": "A diamond shape indicates a decision or branching in flowcharts."
+  },
+  {
+    "id": 2,
+    "questionText": "An algorithm must always produce a _______ after a finite number of steps.",
+    "options": ["Loop", "Result", "Error", "Variable"],
+    "correctAnswerIndex": 1,
+    "explanation": "Algorithms are finite processes designed to produce a result."
+  },
+  {
+    "id": 3,
+    "questionText": "Which symbol is used to indicate start or end in a flowchart?",
+    "options": ["Oval", "Square", "Hexagon", "Diamond"],
+    "correctAnswerIndex": 0,
+    "explanation": "An oval (or rounded rectangle) represents start/end in flowcharts."
+  }
+]
