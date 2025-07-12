@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "questionText": "Which of these describes a loop that never stops executing?",
+    "options": ["Conditional loop", "Infinite loop", "While loop", "Count-controlled loop"],
+    "correctAnswerIndex": 1,
+    "explanation": "A loop without a termination condition is called an infinite loop."
+  },
+  {
+    "id": 2,
+    "questionText": "Which of the following is NOT a data type?",
+    "options": ["float", "double", "class", "loop"],
+    "correctAnswerIndex": 3,
+    "explanation": "'loop' is not a data type, it is a control structure."
+  },
+  {
+    "id": 3,
+    "questionText": "Which keyword is used to define a constant in most programming languages?",
+    "options": ["static", "constant", "final", "const"],
+    "correctAnswerIndex": 3,
+    "explanation": "'const' is used to define constants in many languages like C/C++."
+  }
+]
