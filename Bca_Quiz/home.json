@@ -1,0 +1,195 @@
+{
+  "categories": [
+    {
+      "title": "Programming Fundamentals",
+      "topics": [
+        "C Programming",
+        "C++ Programming",
+        "Java Programming",
+        "Python Programming",
+        "Programming Concepts",
+        "Flowcharts and Algorithms"
+      ]
+    },
+    {
+      "title": "Data Structures and Algorithms",
+      "topics": [
+        "Arrays and Linked Lists",
+        "Stacks and Queues",
+        "Trees",
+        "Graphs",
+        "Sorting Algorithms",
+        "Searching Algorithms",
+        "Algorithm Complexity"
+      ]
+    },
+    {
+      "title": "Database Management Systems",
+      "topics": [
+        "SQL Basics",
+        "Normalization",
+        "ER Diagrams",
+        "Transactions and Concurrency",
+        "Database Design",
+        "Stored Procedures",
+        "NoSQL Concepts"
+      ]
+    },
+    {
+      "title": "Operating Systems",
+      "topics": [
+        "Process Management",
+        "Memory Management",
+        "File Systems",
+        "Deadlocks",
+        "Scheduling Algorithms",
+        "System Calls",
+        "Virtual Memory"
+      ]
+    },
+    {
+      "title": "Computer Networks",
+      "topics": [
+        "OSI and TCP/IP Models",
+        "Networking Devices",
+        "IP Addressing",
+        "Routing and Switching",
+        "Network Security",
+        "Wireless Networks",
+        "Protocols (HTTP, FTP, SMTP)"
+      ]
+    },
+    {
+      "title": "Software Engineering",
+      "topics": [
+        "Software Development Life Cycle (SDLC)",
+        "Agile Methodology",
+        "UML Diagrams",
+        "Software Testing",
+        "Requirements Engineering",
+        "Project Management",
+        "Software Maintenance"
+      ]
+    },
+    {
+      "title": "Web Technologies",
+      "topics": [
+        "HTML Basics",
+        "CSS Styling",
+        "JavaScript Fundamentals",
+        "Responsive Design",
+        "Front-End Frameworks",
+        "Web Hosting",
+        "Web Security"
+      ]
+    },
+    {
+      "title": "Object Oriented Programming",
+      "topics": [
+        "Classes and Objects",
+        "Inheritance",
+        "Polymorphism",
+        "Abstraction",
+        "Encapsulation",
+        "Interfaces",
+        "Exception Handling"
+      ]
+    },
+    {
+      "title": "Digital Electronics",
+      "topics": [
+        "Number Systems",
+        "Logic Gates",
+        "Boolean Algebra",
+        "Combinational Circuits",
+        "Sequential Circuits",
+        "Flip-Flops",
+        "Counters and Registers"
+      ]
+    },
+    {
+      "title": "Discrete Mathematics",
+      "topics": [
+        "Set Theory",
+        "Relations and Functions",
+        "Graph Theory",
+        "Combinatorics",
+        "Boolean Algebra",
+        "Propositional Logic",
+        "Recurrence Relations"
+      ]
+    },
+    {
+      "title": "Mobile Application Development",
+      "topics": [
+        "Android Basics",
+        "Flutter Framework",
+        "UI Design Principles",
+        "APIs in Mobile Apps",
+        "Local Storage",
+        "App Lifecycle",
+        "Publishing Apps"
+      ]
+    },
+    {
+      "title": "Cloud Computing",
+      "topics": [
+        "Cloud Service Models (IaaS, PaaS, SaaS)",
+        "Virtualization",
+        "Cloud Providers (AWS, Azure, GCP)",
+        "Cloud Security",
+        "Storage Services",
+        "Cloud Deployment Models",
+        "Cost Optimization"
+      ]
+    },
+    {
+      "title": "Cyber Security",
+      "topics": [
+        "Types of Cyber Attacks",
+        "Cryptography Basics",
+        "Network Security",
+        "Security Protocols",
+        "Firewalls and Antivirus",
+        "Ethical Hacking",
+        "Data Privacy"
+      ]
+    },
+    {
+      "title": "Computer Architecture",
+      "topics": [
+        "CPU Organization",
+        "Memory Hierarchy",
+        "Instruction Cycle",
+        "Pipelining",
+        "Input/Output Systems",
+        "Microprocessor Basics",
+        "Registers and Buses"
+      ]
+    },
+    {
+      "title": "Numerical Methods",
+      "topics": [
+        "Error Analysis",
+        "Interpolation",
+        "Numerical Differentiation",
+        "Numerical Integration",
+        "Root Finding Methods",
+        "Linear Equations Solutions",
+        "Differential Equations"
+      ]
+    },
+    {
+      "title": "E-Commerce",
+      "topics": [
+        "E-Commerce Models",
+        "Digital Payment Systems",
+        "E-Business Infrastructure",
+        "Security in E-Commerce",
+        "Legal Issues in E-Commerce",
+        "Online Marketing",
+        "Emerging Trends"
+      ]
+    }
+  ]
+}
