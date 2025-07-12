@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "questionText": "Which symbol is used to denote a preprocessor directive in C?",
+    "options": ["$", "#", "@", "&"],
+    "correctAnswerIndex": 1,
+    "explanation": "The '#' symbol is used for preprocessor directives like #include, #define."
+  },
+  {
+    "id": 2,
+    "questionText": "Which of the following is used to terminate a statement in C?",
+    "options": ["Colon (:)", "Comma (,)", "Semicolon (;)", "Period (.)"],
+    "correctAnswerIndex": 2,
+    "explanation": "Each statement in C ends with a semicolon (;)."
+  },
+  {
+    "id": 3,
+    "questionText": "What is the correct data type for storing a character?",
+    "options": ["int", "char", "float", "double"],
+    "correctAnswerIndex": 1,
+    "explanation": "Characters are stored using the 'char' data type."
+  }
+]

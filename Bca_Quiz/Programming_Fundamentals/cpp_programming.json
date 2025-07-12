@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "questionText": "Which concept allows using the same function name with different arguments in C++?",
+    "options": ["Encapsulation", "Inheritance", "Polymorphism", "Overloading"],
+    "correctAnswerIndex": 3,
+    "explanation": "Function overloading allows same function name with different parameter lists."
+  },
+  {
+    "id": 2,
+    "questionText": "Which operator is used to allocate memory dynamically in C++?",
+    "options": ["malloc", "new", "alloc", "create"],
+    "correctAnswerIndex": 1,
+    "explanation": "'new' is used for dynamic memory allocation in C++."
+  },
+  {
+    "id": 3,
+    "questionText": "C++ is an extension of which language?",
+    "options": ["Java", "Python", "C", "Pascal"],
+    "correctAnswerIndex": 2,
+    "explanation": "C++ is an extension of the C programming language."
+  }
+]
