@@ -3,192 +3,192 @@
     {
       "title": "Programming Fundamentals",
       "topics": [
-        "C Programming",
-        "C++ Programming",
-        "Java Programming",
-        "Python Programming",
-        "Programming Concepts",
-        "Flowcharts and Algorithms"
+        { "name": "C Programming", "url": "" },
+        { "name": "C++ Programming", "url": "" },
+        { "name": "Java Programming", "url": "" },
+        { "name": "Python Programming", "url": "" },
+        { "name": "Programming Concepts", "url": "" },
+        { "name": "Flowcharts and Algorithms", "url": "" }
       ]
     },
     {
       "title": "Data Structures and Algorithms",
       "topics": [
-        "Arrays and Linked Lists",
-        "Stacks and Queues",
-        "Trees",
-        "Graphs",
-        "Sorting Algorithms",
-        "Searching Algorithms",
-        "Algorithm Complexity"
+        { "name": "Arrays and Linked Lists", "url": "" },
+        { "name": "Stacks and Queues", "url": "" },
+        { "name": "Trees", "url": "" },
+        { "name": "Graphs", "url": "" },
+        { "name": "Sorting Algorithms", "url": "" },
+        { "name": "Searching Algorithms", "url": "" },
+        { "name": "Algorithm Complexity", "url": "" }
       ]
     },
     {
       "title": "Database Management Systems",
       "topics": [
-        "SQL Basics",
-        "Normalization",
-        "ER Diagrams",
-        "Transactions and Concurrency",
-        "Database Design",
-        "Stored Procedures",
-        "NoSQL Concepts"
+        { "name": "SQL Basics", "url": "" },
+        { "name": "Normalization", "url": "" },
+        { "name": "ER Diagrams", "url": "" },
+        { "name": "Transactions and Concurrency", "url": "" },
+        { "name": "Database Design", "url": "" },
+        { "name": "Stored Procedures", "url": "" },
+        { "name": "NoSQL Concepts", "url": "" }
       ]
     },
     {
       "title": "Operating Systems",
       "topics": [
-        "Process Management",
-        "Memory Management",
-        "File Systems",
-        "Deadlocks",
-        "Scheduling Algorithms",
-        "System Calls",
-        "Virtual Memory"
+        { "name": "Process Management", "url": "" },
+        { "name": "Memory Management", "url": "" },
+        { "name": "File Systems", "url": "" },
+        { "name": "Deadlocks", "url": "" },
+        { "name": "Scheduling Algorithms", "url": "" },
+        { "name": "System Calls", "url": "" },
+        { "name": "Virtual Memory", "url": "" }
       ]
     },
     {
       "title": "Computer Networks",
       "topics": [
-        "OSI and TCP/IP Models",
-        "Networking Devices",
-        "IP Addressing",
-        "Routing and Switching",
-        "Network Security",
-        "Wireless Networks",
-        "Protocols (HTTP, FTP, SMTP)"
+        { "name": "OSI and TCP/IP Models", "url": "" },
+        { "name": "Networking Devices", "url": "" },
+        { "name": "IP Addressing", "url": "" },
+        { "name": "Routing and Switching", "url": "" },
+        { "name": "Network Security", "url": "" },
+        { "name": "Wireless Networks", "url": "" },
+        { "name": "Protocols (HTTP, FTP, SMTP)", "url": "" }
       ]
     },
     {
       "title": "Software Engineering",
       "topics": [
-        "Software Development Life Cycle (SDLC)",
-        "Agile Methodology",
-        "UML Diagrams",
-        "Software Testing",
-        "Requirements Engineering",
-        "Project Management",
-        "Software Maintenance"
+        { "name": "Software Development Life Cycle (SDLC)", "url": "" },
+        { "name": "Agile Methodology", "url": "" },
+        { "name": "UML Diagrams", "url": "" },
+        { "name": "Software Testing", "url": "" },
+        { "name": "Requirements Engineering", "url": "" },
+        { "name": "Project Management", "url": "" },
+        { "name": "Software Maintenance", "url": "" }
       ]
     },
     {
       "title": "Web Technologies",
       "topics": [
-        "HTML Basics",
-        "CSS Styling",
-        "JavaScript Fundamentals",
-        "Responsive Design",
-        "Front-End Frameworks",
-        "Web Hosting",
-        "Web Security"
+        { "name": "HTML Basics", "url": "" },
+        { "name": "CSS Styling", "url": "" },
+        { "name": "JavaScript Fundamentals", "url": "" },
+        { "name": "Responsive Design", "url": "" },
+        { "name": "Front-End Frameworks", "url": "" },
+        { "name": "Web Hosting", "url": "" },
+        { "name": "Web Security", "url": "" }
       ]
     },
     {
       "title": "Object Oriented Programming",
       "topics": [
-        "Classes and Objects",
-        "Inheritance",
-        "Polymorphism",
-        "Abstraction",
-        "Encapsulation",
-        "Interfaces",
-        "Exception Handling"
+        { "name": "Classes and Objects", "url": "" },
+        { "name": "Inheritance", "url": "" },
+        { "name": "Polymorphism", "url": "" },
+        { "name": "Abstraction", "url": "" },
+        { "name": "Encapsulation", "url": "" },
+        { "name": "Interfaces", "url": "" },
+        { "name": "Exception Handling", "url": "" }
       ]
     },
     {
       "title": "Digital Electronics",
       "topics": [
-        "Number Systems",
-        "Logic Gates",
-        "Boolean Algebra",
-        "Combinational Circuits",
-        "Sequential Circuits",
-        "Flip-Flops",
-        "Counters and Registers"
+        { "name": "Number Systems", "url": "" },
+        { "name": "Logic Gates", "url": "" },
+        { "name": "Boolean Algebra", "url": "" },
+        { "name": "Combinational Circuits", "url": "" },
+        { "name": "Sequential Circuits", "url": "" },
+        { "name": "Flip-Flops", "url": "" },
+        { "name": "Counters and Registers", "url": "" }
       ]
     },
     {
       "title": "Discrete Mathematics",
       "topics": [
-        "Set Theory",
-        "Relations and Functions",
-        "Graph Theory",
-        "Combinatorics",
-        "Boolean Algebra",
-        "Propositional Logic",
-        "Recurrence Relations"
+        { "name": "Set Theory", "url": "" },
+        { "name": "Relations and Functions", "url": "" },
+        { "name": "Graph Theory", "url": "" },
+        { "name": "Combinatorics", "url": "" },
+        { "name": "Boolean Algebra", "url": "" },
+        { "name": "Propositional Logic", "url": "" },
+        { "name": "Recurrence Relations", "url": "" }
       ]
     },
     {
       "title": "Mobile Application Development",
       "topics": [
-        "Android Basics",
-        "Flutter Framework",
-        "UI Design Principles",
-        "APIs in Mobile Apps",
-        "Local Storage",
-        "App Lifecycle",
-        "Publishing Apps"
+        { "name": "Android Basics", "url": "" },
+        { "name": "Flutter Framework", "url": "" },
+        { "name": "UI Design Principles", "url": "" },
+        { "name": "APIs in Mobile Apps", "url": "" },
+        { "name": "Local Storage", "url": "" },
+        { "name": "App Lifecycle", "url": "" },
+        { "name": "Publishing Apps", "url": "" }
       ]
     },
     {
       "title": "Cloud Computing",
       "topics": [
-        "Cloud Service Models (IaaS, PaaS, SaaS)",
-        "Virtualization",
-        "Cloud Providers (AWS, Azure, GCP)",
-        "Cloud Security",
-        "Storage Services",
-        "Cloud Deployment Models",
-        "Cost Optimization"
+        { "name": "Cloud Service Models (IaaS, PaaS, SaaS)", "url": "" },
+        { "name": "Virtualization", "url": "" },
+        { "name": "Cloud Providers (AWS, Azure, GCP)", "url": "" },
+        { "name": "Cloud Security", "url": "" },
+        { "name": "Storage Services", "url": "" },
+        { "name": "Cloud Deployment Models", "url": "" },
+        { "name": "Cost Optimization", "url": "" }
       ]
     },
     {
       "title": "Cyber Security",
       "topics": [
-        "Types of Cyber Attacks",
-        "Cryptography Basics",
-        "Network Security",
-        "Security Protocols",
-        "Firewalls and Antivirus",
-        "Ethical Hacking",
-        "Data Privacy"
+        { "name": "Types of Cyber Attacks", "url": "" },
+        { "name": "Cryptography Basics", "url": "" },
+        { "name": "Network Security", "url": "" },
+        { "name": "Security Protocols", "url": "" },
+        { "name": "Firewalls and Antivirus", "url": "" },
+        { "name": "Ethical Hacking", "url": "" },
+        { "name": "Data Privacy", "url": "" }
       ]
     },
     {
       "title": "Computer Architecture",
       "topics": [
-        "CPU Organization",
-        "Memory Hierarchy",
-        "Instruction Cycle",
-        "Pipelining",
-        "Input/Output Systems",
-        "Microprocessor Basics",
-        "Registers and Buses"
+        { "name": "CPU Organization", "url": "" },
+        { "name": "Memory Hierarchy", "url": "" },
+        { "name": "Instruction Cycle", "url": "" },
+        { "name": "Pipelining", "url": "" },
+        { "name": "Input/Output Systems", "url": "" },
+        { "name": "Microprocessor Basics", "url": "" },
+        { "name": "Registers and Buses", "url": "" }
       ]
     },
     {
       "title": "Numerical Methods",
       "topics": [
-        "Error Analysis",
-        "Interpolation",
-        "Numerical Differentiation",
-        "Numerical Integration",
-        "Root Finding Methods",
-        "Linear Equations Solutions",
-        "Differential Equations"
+        { "name": "Error Analysis", "url": "" },
+        { "name": "Interpolation", "url": "" },
+        { "name": "Numerical Differentiation", "url": "" },
+        { "name": "Numerical Integration", "url": "" },
+        { "name": "Root Finding Methods", "url": "" },
+        { "name": "Linear Equations Solutions", "url": "" },
+        { "name": "Differential Equations", "url": "" }
       ]
     },
     {
       "title": "E-Commerce",
       "topics": [
-        "E-Commerce Models",
-        "Digital Payment Systems",
-        "E-Business Infrastructure",
-        "Security in E-Commerce",
-        "Legal Issues in E-Commerce",
-        "Online Marketing",
-        "Emerging Trends"
+        { "name": "E-Commerce Models", "url": "" },
+        { "name": "Digital Payment Systems", "url": "" },
+        { "name": "E-Business Infrastructure", "url": "" },
+        { "name": "Security in E-Commerce", "url": "" },
+        { "name": "Legal Issues in E-Commerce", "url": "" },
+        { "name": "Online Marketing", "url": "" },
+        { "name": "Emerging Trends", "url": "" }
       ]
     }
   ]
