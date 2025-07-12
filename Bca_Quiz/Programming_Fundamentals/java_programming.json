@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "questionText": "Which keyword is used to create a subclass in Java?",
+    "options": ["extends", "inherits", "implements", "derives"],
+    "correctAnswerIndex": 0,
+    "explanation": "'extends' is used for creating a subclass in Java."
+  },
+  {
+    "id": 2,
+    "questionText": "Which method is the entry point of a Java program?",
+    "options": ["start()", "main()", "init()", "run()"],
+    "correctAnswerIndex": 1,
+    "explanation": "The main() method is the entry point of a Java program."
+  },
+  {
+    "id": 3,
+    "questionText": "Java programs are converted into which intermediate form?",
+    "options": ["Binary Code", "Bytecode", "Machine Code", "Hex Code"],
+    "correctAnswerIndex": 1,
+    "explanation": "Java source code is compiled into bytecode, which runs on the JVM."
+  }
+]
