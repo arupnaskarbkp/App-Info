@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "questionText": "Which symbol is used to start a comment in Python?",
+    "options": ["//", "#", "--", "/* */"],
+    "correctAnswerIndex": 1,
+    "explanation": "In Python, comments start with '#'."
+  },
+  {
+    "id": 2,
+    "questionText": "Which data type is used to store decimal values in Python?",
+    "options": ["int", "float", "char", "bool"],
+    "correctAnswerIndex": 1,
+    "explanation": "'float' stores decimal numbers in Python."
+  },
+  {
+    "id": 3,
+    "questionText": "What is the output of print(2 ** 3) in Python?",
+    "options": ["5", "6", "8", "9"],
+    "correctAnswerIndex": 2,
+    "explanation": "'**' is the exponentiation operator, so 2 ** 3 = 8."
+  }
+]
